@@ -1,0 +1,155 @@
+
+
+\newpage
+\section{Example d'examen}
+\section*{Q1 : Calcul du déterminant de la matrice}
+
+$$
+A =
+\begin{pmatrix}
+  1 & 5 & 6 & 7 \\
+  0 & 2^0-1 & 1-2 ^32^{-3} & 8 \\
+  9 & 9,5 & -9,5 & b \\
+  4 & 8 & 16 & 32 \\
+\end{pmatrix}
+$$
+ det(A) = -3824
+
+\section*{Q2 : Calcul nombre complex}
+
+Que doit valoir a pour que l’argument soit 135° quand b=-5, c=4 et d=11 \\
+
+\[
+\frac{a+bi}{c+di}
+]
+
+
+A) Remplacer
+
+$$
+\[
+  \frac{a+(-5)i}{4+11i}
+\]
+
+TETA = $135^{\circ}$
+
+$$
+
+\section*{Q3 : Transformer en forme conjonctive}
+
+(A ∧¬ B) V $(C\implies a)$ \\
+
+\begin{flushleft}
+A) Simplifier l’implications \\
+\end{flushleft}
+
+  (A ∧¬ B) V (¬ A V (C ∧ A))\\
+
+\begin{flushleft}
+B) Utilisation du théorème De Morgan \\
+\end{flushleft}
+
+  $a+b\implies ¬ a * ¬ b$\\
+
+  ¬ (A ∧¬ B) ∧ ¬ (¬ A V (C ∧ A)) \\
+
+  S= NEG(A ET NEG(B))ETNEG(NEG(A)OU(C OU A)) \\
+
+
+\section*{Q4 : Théorie des ensembles naïfs}
+
+A) Soit A={pi,2,e} et B={-1, 5} Calculer ${|A\times B|}$ \\
+
+  1) Calculer ${A\times B}$ \\
+
+  A*B = {
+  (pi,-1),(pi,5),
+  (2,-1),(2,5),
+  (e,-1),(e,5)
+  }
+  \\
+
+    2) Calculer la cardinalité de ${|A\times B|}$ \\
+
+      ${|A|}$ = 3 \\
+      ${|B|}$ = 2 \\
+      ${|A\times B|}$ = ${|A|}*{|B|}$ = 2*3 = 6 \\
+      S = la cardinalité est le nombre de sous-ensembles (6)\\
+
+
+  B) Soit P|A U B| A  = {3,4,5} B={1,2,3} \\
+
+  P(A) = {{}, {3}, {4}, {5}, {3,4}, {4,5}, {3,5}, {3,4,5}} \\
+  $|P|$ = 8 \\
+
+\section*{Q5 : Induction forte/faibles}
+
+Notez que l’induction faible est égale à l’induction forte. Néanmoins il est plus naturel de démontrer les propriétés soit avec de l’induction simple,soit avec la forte comme réalisé durant le cours. Il vous est demandé de choisir entre les deux fonction de l’énoncé.\\ \\
+Soit n un nombre naturel, que faut-il pour démontrer que $10^{n-1}$ est un multiple de 9 ? \\ \\
+Veuillez choisir au moins une réponse : (Cochez ce qui est vrai)\\
+
+\begin{itemize}[label=$\square$]
+\item On peut utiliser l’induction faible ou forte
+\item Il faut au moins 3 cas de base
+\item il faut utiliser l’induction forte
+\item il faut au moins un unique cas de base
+\item il faut au moins 2 cas de base
+\end{itemize}
+
+\section*{Q6 : Nombre entiers}
+
+Soient a,b et m des nombre naturels. Est-ce que
+
+(a+b) mod m = ((a mod m)+(b mod m)) mod m \\
+
+a) Développement de l'égalité \\
+
+(a+b) mod m = ((a+b) mod m) mod m
+
+(8+10) mod 2 = ((8 mod 2)+(10 mod 2)) mod 2
+
+(18) mod 2 = (0+0) mod 2
+
+0 = (0) mod 2
+
+0 = 0 \\
+
+Sélectionnez une réponse :
+\begin{itemize}[label=$\square$]
+\item Vrai
+\item Faux
+\end{itemize}
+
+
+\section*{Q7 : Déterminer les complexités de l’algorithme suivant avec n la taille du tableau}
+
+\begin{lstlisting}[language=Python, caption=Python algorithme]
+
+def Apply(array,value,start=None,res=0):
+
+	if(start is None):
+            start = len(array)-1
+
+        if(start <0):
+            return res
+
+	if(array[start] == value):
+            return Apply(array,value,start-1,res+1)
+
+return Apply(array,value,start-1,res)
+\end{lstlisting}
+
+\section*{Q8 : Ensemble Naturels}
+Soit N est l’esemble des naturels sauf 0
+
+  R={(a,b), a ∈ N, b ∈ N et a est un multiple de b }\\
+
+
+cochez ce qui est vrai concernant R. (au moins une réponse)\\
+\begin{itemize}[label=$\square$]
+\item R est transitif
+\item Aucune réponse
+\item R est réflexif
+\item R est anti-symètrique
+\item R est symètrique
+\end{itemize}

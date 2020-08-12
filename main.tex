@@ -1,4 +1,49 @@
+
 \documentclass{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\providecommand\implies{\DOTSB\;\Longrightarrow\;}
+\usepackage[french]{babel}
+\frenchbsetup{StandardLists=true}
+\usepackage{enumitem}
+\usepackage{subfiles}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2
+}
+
+\geometry{
+a4paper,
+total={170mm,257mm},
+left=20mm,
+top=20mm,
+}
 
 \title{Mathématiques appliquée à l'informatique}
 \author{Bertieaux Jordan}
@@ -7,4 +52,12 @@
 \begin{document}
 \maketitle
 Enseignant : Mr Lerat Sébastien
+
+\newpage
+\renewcommand*\contentsname{Table de Matières}
+\tableofcontents
+
+\input{Chapitre1/NombreComplex}
+\input{Examen/Examen}
+
 \end{document}

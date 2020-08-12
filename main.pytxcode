@@ -1,0 +1,39 @@
+=>PYTHONTEX#PYGpython#default#defaultverb#0#verbatim####Examen.tex#115#
+def Apply(array,value,start=None,res=0):
+
+	if(start is None):
+    start = len(array)-1
+
+  if(start <0):
+    return res
+
+	if(array[start] == value):
+		return Apply(array,value,start-1,res+1)
+
+return Apply(array,value,start-1,res)
+=>PYTHONTEX:SETTINGS#
+version=0.17
+outputdir=pythontex-files-main
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=true
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=false
+pygfamily=py|python3|
+pygfamily=pycon|pycon|
+pygfamily=sympy|python3|
+pygfamily=sympycon|pycon|
+pygfamily=pylab|python3|
+pygfamily=pylabcon|pycon|
+pygfamily=PYGpython|python|
