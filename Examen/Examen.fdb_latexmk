@@ -1,11 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1597239875 "Examen.tex" "Examen.pdf" "Examen" 1597257068
+["pdflatex"] 1597264084 "Examen.tex" "Examen.pdf" "Examen" 1597264084
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1591545468 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1597224863 4855604 a2b69e422d881628e3d9a5db2035053f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1597224858 2514053 b845ef33aca6a0cfe16199c7fc3f7b2d ""
   "Examen.aux" 1597227615 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Examen.tex" 1597239872 3378 ea9e3995447bdcea0a71701a0c86c3cb ""
+  "Examen.tex" 1597264079 4969 04811a5b377b227c82cda852d12c28be ""
   (generated)
-  "Examen.pdf"
   "Examen.log"
+  "Examen.pdf"

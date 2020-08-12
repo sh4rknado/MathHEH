@@ -1,3 +1,3 @@
 \babel@toc {french}{}
 \contentsline {section}{\numberline {1}Nombres Complexes}{3}%
-\contentsline {section}{\numberline {2}Example d'examen}{4}%
+\contentsline {section}{\numberline {2}Exemple d'examen}{4}%

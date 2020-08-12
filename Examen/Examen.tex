@@ -1,41 +1,180 @@
 
-
 \newpage
-\section{Example d'examen}
+\section{Exemple d'examen}
+\vspace{10mm} %5mm vertical space
 \section*{Q1 : Calcul du déterminant de la matrice}
 
-$$
+\vspace{10mm} %5mm vertical space
+
+$
 A =
 \begin{pmatrix}
   1 & 5 & 6 & 7 \\
-  0 & 2^0-1 & 1-2 ^32^{-3} & 8 \\
+  0 & 2^0-1 & 1-2^32^{-3} & 8 \\
   9 & 9,5 & -9,5 & b \\
   4 & 8 & 16 & 32 \\
 \end{pmatrix}
-$$
- det(A) = -3824
+$
+
+\vspace{10mm} %5mm vertical space
+
+A) Simplification de la matrice \\
+
+\vspace{2mm} %5mm vertical space
+$2^{0}-1 = 1-1 = 0$
+\vspace{2mm} %5mm vertical space
+
+$1-2^{3} 2^{-3} = 1-2^{3-3} = 1-2^{0} = 1-1 = 0$
+\vspace{4mm} %5mm vertical space
+
+$
+\begin{pmatrix}
+  1 & 5 & 6 & 7 \\
+  0 & 0 & 0 & 8 \\
+  9 & 9,5 & -9,5 & b \\
+  4 & 8 & 16 & 32 \\
+\end{pmatrix}
+$
+
+\vspace{10mm} %5mm vertical space
+
+B) Swap des zeros\\
+
+\vspace{5mm} %5mm vertical space
+
+$
+8*
+\begin{pmatrix}
+  1 & 5 & 6 \\
+  9 & 9,5 & {-9,5} \\
+  4 & 8 & 16 \\
+\end{pmatrix}
+$
+
+\vspace{10mm} %5mm vertical space
+
+C) Extraction des sous matrices \\
+
+\vspace{5mm} %5mm vertical space
+Matrices de signes \\
+
+\vspace{5mm} %5mm vertical space
+
+$
+\begin{pmatrix}
+  + & + & - \\
+  - & - & + \\
+  + & + & - \\
+\end{pmatrix}
+$
+
+
+\vspace{10mm} %5mm vertical space
+Extraction des matrices \\
+\vspace{5mm} %5mm vertical space
+
+$
+8*(
+  1*
+  \begin{pmatrix}
+    9,5 & -9.5 \\
+    8 & 16 \\
+  \end{pmatrix}
+  $
+  $
+  -5*
+  \begin{pmatrix}
+    9,5 & -9.5 \\
+    4 & 16 \\
+  \end{pmatrix}
+  $
+  $
+  +6*
+  \begin{pmatrix}
+    9 & 9.5 \\
+    4 & 8 \\
+  \end{pmatrix}
+  $
+)
+
+\newpage
+
+D) Calcul des déterminants 2*2
+
+
+\vspace{5mm} %5mm vertical space
+
+8*(\\
+
+1*((9,5*16)-(8*-9,5))\\
+
+-5*((9*16)-(4*-9,5))\\
+
++6*((9*8)-(4*9,5))\\
+
+)
+
+\vspace{10mm} %5mm vertical space
+
+E) Simplification des calculs
+
+\vspace{5mm} %5mm vertical space
+
+8*(\\
+
+  1*(152 – (-76))\\
+
+  -5*(144 – (-38))\\
+
+  +6*(72 – 38)\\
+
+)
+
+\vspace{10mm} %5mm vertical space
+
+
+F) Mise en équation et résolution \\
+
+\vspace{5mm} %5mm vertical space
+
+8*( 228 -5*(182) + 6*(34))\\
+
+8*( 228 - 910 + 204 )\\
+
+8*( 228 + 204 - 910 )\\
+
+8*( 432 - 910 )\\
+
+8*( -478 ) = -3824\\
+
+det(A) = -3824\\
+
+
+\newpage
 
 \section*{Q2 : Calcul nombre complex}
 
+\vspace{4mm} %5mm vertical space
+
 Que doit valoir a pour que l’argument soit 135° quand b=-5, c=4 et d=11 \\
 
-\[
+\vspace{4mm} %5mm vertical space
+
+$
 \frac{a+bi}{c+di}
-]
+$
 
+\vspace{5mm} %5mm vertical space
 
-A) Remplacer
+A) ?????????????
 
-$$
-\[
-  \frac{a+(-5)i}{4+11i}
-\]
+\newpage
 
-TETA = $135^{\circ}$
-
-$$
+\vspace{10mm} %5mm vertical space
 
 \section*{Q3 : Transformer en forme conjonctive}
+
+\vspace{4mm} %5mm vertical space
 
 (A ∧¬ B) V $(C\implies a)$ \\
 
@@ -49,40 +188,56 @@ A) Simplifier l’implications \\
 B) Utilisation du théorème De Morgan \\
 \end{flushleft}
 
-  $a+b\implies ¬ a * ¬ b$\\
+  $a+b = ¬ a * ¬ b$\\
 
   ¬ (A ∧¬ B) ∧ ¬ (¬ A V (C ∧ A)) \\
 
   S= NEG(A ET NEG(B))ETNEG(NEG(A)OU(C OU A)) \\
 
 
+\vspace{10mm} %5mm vertical space
+
 \section*{Q4 : Théorie des ensembles naïfs}
 
-A) Soit A={pi,2,e} et B={-1, 5} Calculer ${|A\times B|}$ \\
+\vspace{4mm} %5mm vertical space
+
+A) Soit A=\{pi,2,e\} et B=\{-1, 5\} Calculer ${|A\times B|}$ \\
+
+\vspace{4mm} %5mm vertical space
 
   1) Calculer ${A\times B}$ \\
 
-  A*B = {
-  (pi,-1),(pi,5),
-  (2,-1),(2,5),
-  (e,-1),(e,5)
-  }
-  \\
+  A*B = \{ (pi,-1),(pi,5), (2,-1),(2,5), (e,-1),(e,5) \}
+
+  \vspace{8mm} %5mm vertical space
 
     2) Calculer la cardinalité de ${|A\times B|}$ \\
 
-      ${|A|}$ = 3 \\
-      ${|B|}$ = 2 \\
+      ${|A|}$ = 3  ${|B|}$ = 2 \\
+
       ${|A\times B|}$ = ${|A|}*{|B|}$ = 2*3 = 6 \\
+
       S = la cardinalité est le nombre de sous-ensembles (6)\\
 
+  \vspace{8mm} %5mm vertical space
 
-  B) Soit P|A U B| A  = {3,4,5} B={1,2,3} \\
+  B) Soit P $|$ A U B $|$ A =\{3,4,5\} B=\{1,2,3\} \\
 
-  P(A) = {{}, {3}, {4}, {5}, {3,4}, {4,5}, {3,5}, {3,4,5}} \\
+  \vspace{5mm} %5mm vertical space
+
+  1) Union des 2 ensembles \\
+
+  P(A) = \{\{\}, \{3\}, \{4\}, \{5\}, \{3,4\}, \{4,5\}, \{3,5\}, \{3,4,5\}\} \\
+
+  \vspace{4mm} %5mm vertical space
+  2) Calcul de la cardinalité des ensembles \\
+
   $|P|$ = 8 \\
 
+\newpage
 \section*{Q5 : Induction forte/faibles}
+
+\vspace{5mm} %5mm vertical space
 
 Notez que l’induction faible est égale à l’induction forte. Néanmoins il est plus naturel de démontrer les propriétés soit avec de l’induction simple,soit avec la forte comme réalisé durant le cours. Il vous est demandé de choisir entre les deux fonction de l’énoncé.\\ \\
 Soit n un nombre naturel, que faut-il pour démontrer que $10^{n-1}$ est un multiple de 9 ? \\ \\
@@ -96,11 +251,20 @@ Veuillez choisir au moins une réponse : (Cochez ce qui est vrai)\\
 \item il faut au moins 2 cas de base
 \end{itemize}
 
+\vspace{5mm} %5mm vertical space
+
 \section*{Q6 : Nombre entiers}
+
+\vspace{5mm} %5mm vertical space
+
 
 Soient a,b et m des nombre naturels. Est-ce que
 
+\vspace{2mm} %5mm vertical space
+
 (a+b) mod m = ((a mod m)+(b mod m)) mod m \\
+
+\vspace{4mm} %5mm vertical space
 
 a) Développement de l'égalité \\
 
@@ -121,7 +285,10 @@ Sélectionnez une réponse :
 \end{itemize}
 
 
+\newpage
 \section*{Q7 : Déterminer les complexités de l’algorithme suivant avec n la taille du tableau}
+
+\vspace{5mm} %5mm vertical space
 
 \begin{lstlisting}[language=Python, caption=Python algorithme]
 
@@ -139,7 +306,31 @@ def Apply(array,value,start=None,res=0):
 return Apply(array,value,start-1,res)
 \end{lstlisting}
 
+\vspace{5mm} %5mm vertical space
+
+cochez ce qui est vrai concernant la complexités (au moins une réponse)\\
+\begin{itemize}[label=$\square$]
+\item {a. $\theta(1)$}
+\item {b. $o(n²)$}
+\item {c. $O(log(n))$}
+\item {d. $o(log(n))$}
+\item {e. $\theta(log(n))$}
+\item {f. $o(n)$}
+\item {g. $o(1)$}
+\item {h. $O(1)$}
+\item {i. $o(n log(n))$}
+\item {j. $O(n log(n))$}
+\item {k. $\theta(n)$}
+\item {l. $\theta(n²)$}
+\item {m. $O(n²)$}
+\item {n. $O(n)$}
+\item {o. $\theta(n log(n))$}
+\end{itemize}
+
+\newpage
 \section*{Q8 : Ensemble Naturels}
+\vspace{5mm} %5mm vertical space
+
 Soit N est l’esemble des naturels sauf 0
 
   R={(a,b), a ∈ N, b ∈ N et a est un multiple de b }\\
