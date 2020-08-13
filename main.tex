@@ -1,5 +1,5 @@
 
-\documentclass{article}
+\documentclass{report}
 \usepackage[utf8x]{inputenc}
 \usepackage{geometry}
 \usepackage{amsmath}
@@ -10,7 +10,7 @@
 \frenchbsetup{StandardLists=true}
 \usepackage{enumitem}
 \usepackage{subfiles}
-
+\usepackage{color,soul}
 \usepackage{listings}
 \usepackage{xcolor}
 
@@ -60,7 +60,8 @@ Enseignant : Mr Lerat Sébastien
 \renewcommand*\contentsname{Table de Matières}
 \tableofcontents
 
-\input{Chapitre1/NombreComplex}
+\input{Chapitre/Theorie}
+\input{Chapitre/Exercices}
 \input{Examen/Examen}
 
 \end{document}

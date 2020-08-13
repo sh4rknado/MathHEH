@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.8.12)  12 AUG 2020 23:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.8.12)  13 AUG 2020 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,19 +6,20 @@ entering extended mode
 (./main.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-03>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
@@ -37,7 +38,7 @@ Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
-\uc@secondtry=\count175
+\uc@secondtry=\count176
 \uc@combtoks=\toks17
 \uc@combtoksb=\toks18
 \uc@temptokena=\toks19
@@ -55,9 +56,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count176
-\Gm@cntv=\count177
-\c@Gm@tempcnt=\count178
+\Gm@cnth=\count177
+\Gm@cntv=\count178
+\c@Gm@tempcnt=\count179
 \Gm@bindingoffset=\dimen135
 \Gm@wd@mp=\dimen136
 \Gm@odd@mp=\dimen137
@@ -88,13 +89,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count179
+\inf@bad=\count180
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count180
-\leftroot@=\count181
+\uproot@=\count181
+\leftroot@=\count182
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count182
-\DOTSCASE@=\count183
+\classnum@=\count183
+\DOTSCASE@=\count184
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -103,15 +104,15 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen145
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count184
-\c@MaxMatrixCols=\count185
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
 \dotsspace@=\muskip16
-\c@parentequation=\count186
-\dspbrk@lvl=\count187
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
 \tag@help=\toks23
-\row@=\count188
-\column@=\count189
-\maxfields@=\count190
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
 \andhelp@=\toks24
 \eqnshift@=\dimen146
 \alignsep@=\dimen147
@@ -151,14 +152,14 @@ Package: babel 2020/05/13 3.44 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/05/13 3.44 Babel common definitions
-\babel@savecnt=\count191
+\babel@savecnt=\count192
 \U@D=\dimen152
 \l@babelnohyphens=\language86
 
 (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count192
+\bbl@dirlevel=\count193
 
 (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
 Language: french 2020/04/18 v3.5h French support from the babel system
@@ -166,20 +167,20 @@ Package babel Info: \l@acadian = using hyphenrules for french
 (babel)             (\language28) on input line 91.
 Package babel Info: \l@canadien = using hyphenrules for french
 (babel)             (\language28) on input line 92.
-\FB@nonchar=\count193
+\FB@nonchar=\count194
 Package babel Info: Making : an active character on input line 421.
 Package babel Info: Making ; an active character on input line 422.
 Package babel Info: Making ! an active character on input line 423.
 Package babel Info: Making ? an active character on input line 424.
-\FBguill@level=\count194
+\FBguill@level=\count195
 \FBold@everypar=\toks33
 \FB@Mht=\dimen153
-\mc@charclass=\count195
-\mc@charfam=\count196
-\mc@charslot=\count197
-\std@mcc=\count198
-\dec@mcc=\count199
-\c@FBcaption@count=\count266
+\mc@charclass=\count196
+\mc@charfam=\count197
+\mc@charslot=\count198
+\std@mcc=\count199
+\dec@mcc=\count266
+\c@FBcaption@count=\count267
 \listindentFB=\dimen154
 \descindentFB=\dimen155
 \labelindentFB=\dimen156
@@ -195,8 +196,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen161
 \enit@toks=\toks34
 \enit@inbox=\box47
-\enit@count@id=\count267
-\enitdp@description=\count268
+\enit@count@id=\count268
+\enitdp@description=\count269
 )
 (/usr/share/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
@@ -204,24 +205,47 @@ Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
 (/usr/share/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 ))
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/share/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks35
+\SOUL@lasttoken=\toks36
+\SOUL@cmds=\toks37
+\SOUL@buffer=\toks38
+\SOUL@token=\toks39
+\SOUL@spaceskip=\skip56
+\SOUL@ttwidth=\dimen162
+\SOUL@uldp=\dimen163
+\SOUL@ulht=\dimen164
+)
 (/usr/share/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count269
+\lst@mode=\count270
 \lst@gtempboxa=\box48
-\lst@token=\toks35
-\lst@length=\count270
-\lst@currlwidth=\dimen162
-\lst@column=\count271
-\lst@pos=\count272
-\lst@lostspace=\dimen163
-\lst@width=\dimen164
-\lst@newlines=\count273
-\lst@lineno=\count274
-\lst@maxwidth=\dimen165
+\lst@token=\toks40
+\lst@length=\count271
+\lst@currlwidth=\dimen165
+\lst@column=\count272
+\lst@pos=\count273
+\lst@lostspace=\dimen166
+\lst@width=\dimen167
+\lst@newlines=\count274
+\lst@lineno=\count275
+\lst@maxwidth=\dimen168
 
 (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count275
-\lst@skipnumbers=\count276
+\c@lstnumber=\count276
+\lst@skipnumbers=\count277
 \lst@framebox=\box49
 )
 (/usr/share/texmf-dist/tex/latex/listings/listings.cfg
@@ -236,10 +260,7 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-)
+LaTeX Info: Redefining \color on input line 709.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -252,7 +273,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count277
+\l__kernel_color_stack_int=\count278
 \l__pdf_internal_box=\box50
 ) (./main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
@@ -315,21 +336,22 @@ Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
 (french.ldf)                of your document; reported on input line 55.
 
-\c@lstlisting=\count278
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count279
-\scratchdimen=\dimen166
+\scratchdimen=\dimen169
 \scratchbox=\box51
 \nofMPsegments=\count280
 \nofMParguments=\count281
-\everyMPshowfont=\toks36
+\everyMPshowfont=\toks41
 \MPscratchCnt=\count282
-\MPscratchDim=\dimen167
+\MPscratchDim=\dimen170
 \MPnumerator=\count283
 \makeMPintoPDFobject=\count284
-\everyMPtoPDFconversion=\toks37
-) (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
+\everyMPtoPDFconversion=\toks42
+)
+\c@lstlisting=\count285
+ (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
@@ -345,10 +367,91 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1] (./main.toc)
 \tf@toc=\write3
- (./Chapitre1/NombreComplex.tex [2])
-(./Examen/Examen.tex [3]
+ (./Chapitre/Theorie.tex [2
+
+]
+Chapitre 1.
+[3
+
+] (./Chapitre1/MatrixTheorie.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 160--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+) (./Chapitre2/NombreComplexTheorie.tex
+Underfull \hbox (badness 10000) in paragraph at lines 206--1
+
+ []
+
+[5])) (./Chapitre/Exercices.tex [6]
+Chapitre 2.
+[7
+
+] (./Chapitre1/MatrixExo.tex [8]
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+)) (./Examen/Examen.tex [10]
+Chapitre 3.
+
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
@@ -368,7 +471,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-[4]
+[11
+
+] [12]
 Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
@@ -445,12 +550,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
-[5]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-[6] (/usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
+[14] (/usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
 )
 Underfull \hbox (badness 10000) in paragraph at lines 179--180
@@ -539,7 +644,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
-[7]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 242--245
 
  []
@@ -569,7 +674,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
-[8] (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+[16] (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
@@ -585,7 +690,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
-[9]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
@@ -595,15 +700,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
-) [10] (./main.aux) ) 
+) [18] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 7937 strings out of 480478
- 105266 string characters out of 5905959
- 566551 words of memory out of 5000000
- 23875 multiletter control sequences out of 15000+600000
- 540229 words of font info for 55 fonts, out of 8000000 for 9000
+ 8170 strings out of 480478
+ 108432 string characters out of 5905959
+ 571696 words of memory out of 5000000
+ 24083 multiletter control sequences out of 15000+600000
+ 542680 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,44p,347b,1426s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,13n,44p,347b,1426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
 s1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dis
@@ -616,10 +721,10 @@ ype1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.
 pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr
 /share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (10 pages, 145114 bytes).
+Output written on main.pdf (19 pages, 154258 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

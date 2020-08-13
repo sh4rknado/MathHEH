@@ -1,3 +1,19 @@
 \babel@toc {french}{}
-\contentsline {section}{\numberline {1}Nombres Complexes}{3}%
-\contentsline {section}{\numberline {2}Exemple d'examen}{4}%
+\contentsline {chapter}{\numberline {1}Math\IeC {\'e}matiques Th\IeC {\'e}orie}{3}%
+\contentsline {section}{\numberline {1.1}Matrices Th\IeC {\'e}ories}{4}%
+\contentsline {subsection}{\numberline {1.1.1}Calcul du d\IeC {\'e}terminants 2*2}{4}%
+\contentsline {subsection}{\numberline {1.1.2}Calcul du d\IeC {\'e}terminants 4*4 ou n*n}{4}%
+\contentsline {section}{\numberline {1.2}Nombres Complexes}{6}%
+\contentsline {chapter}{\numberline {2}Math\IeC {\'e}matiques Exercices}{7}%
+\contentsline {section}{\numberline {2.1}Exercice Matrices}{8}%
+\contentsline {subsection}{\numberline {2.1.1}Enonc\IeC {\'e}s des exercices}{8}%
+\contentsline {subsection}{\numberline {2.1.2}R\IeC {\'e}solution des exercices}{9}%
+\contentsline {chapter}{\numberline {3}Exemple d'examen}{11}%
+\contentsline {section}{\numberline {3.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{11}%
+\contentsline {section}{\numberline {3.2}Q2 : Calcul nombre complex}{14}%
+\contentsline {section}{\numberline {3.3}Q3 : Transformer en forme conjonctive}{15}%
+\contentsline {section}{\numberline {3.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{15}%
+\contentsline {section}{\numberline {3.5}Q5 : Induction forte/faibles}{16}%
+\contentsline {section}{\numberline {3.6}Q6 : Nombre entiers}{16}%
+\contentsline {section}{\numberline {3.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{17}%
+\contentsline {section}{\numberline {3.8}Q8 : Ensemble Naturels}{18}%
