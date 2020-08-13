@@ -11,9 +11,9 @@
 \contentsline {chapter}{\numberline {3}Exemple d'examen}{11}%
 \contentsline {section}{\numberline {3.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{11}%
 \contentsline {section}{\numberline {3.2}Q2 : Calcul nombre complex}{14}%
-\contentsline {section}{\numberline {3.3}Q3 : Transformer en forme conjonctive}{15}%
-\contentsline {section}{\numberline {3.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{15}%
-\contentsline {section}{\numberline {3.5}Q5 : Induction forte/faibles}{16}%
-\contentsline {section}{\numberline {3.6}Q6 : Nombre entiers}{16}%
-\contentsline {section}{\numberline {3.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{17}%
-\contentsline {section}{\numberline {3.8}Q8 : Ensemble Naturels}{18}%
+\contentsline {section}{\numberline {3.3}Q3 : Transformer en forme conjonctive}{17}%
+\contentsline {section}{\numberline {3.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{17}%
+\contentsline {section}{\numberline {3.5}Q5 : Induction forte/faibles}{18}%
+\contentsline {section}{\numberline {3.6}Q6 : Nombre entiers}{18}%
+\contentsline {section}{\numberline {3.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{19}%
+\contentsline {section}{\numberline {3.8}Q8 : Ensemble Naturels}{20}%
