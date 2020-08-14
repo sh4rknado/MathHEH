@@ -3,9 +3,92 @@
 \section{Matrices Théories}
 \vspace{10mm} %5mm vertical space
 
+\subsection{Les propriétés}
+\vspace{5mm} %5mm vertical space
+
+A) Linéarité \\
+
+si on multiplie une matrice par $\lambda$, le déterminant est multiplié par $\lambda^{n}$ et toutes les lignes et colonnes sont multiplié par $\lambda=det(A)*\lambda^{n}$ \\
+\vspace{5mm} %5mm vertical space
+
+$
+det(A+B) \neq det(A)+det(B) ? \\
+$
+
+Exemple:\\
+
+$
+A =
+\begin{pmatrix}
+  a & 0 \\
+  0 & b \\
+\end{pmatrix}
+$
+\vspace{5mm} %5mm vertical space
+$
+B =
+\begin{pmatrix}
+  c & 0 \\
+  0 & d \\
+\end{pmatrix}
+$
+
+\vspace{3mm} %5mm vertical space
+det(A)=ab et det(B)=cd\\
+\vspace{5mm} %5mm vertical space
+
+Conclusion : \\
+
+$
+C =
+\begin{pmatrix}
+  a+c & 0 \\
+  0 & b+d \\
+\end{pmatrix}
+$
+
+\vspace{3mm} %5mm vertical space
+$
+det(C)=(a+c)*(b+d) \\
+$
+
+\vspace{3mm} %5mm vertical space
+$\lambda^{n} \neq$ linéaire \\
+$\lambda^{n}$ est exponentielle
+
+\vspace{10mm} %5mm vertical space
+B) Déterminant et transposée \\
+
+Det(A) = det(A), les déterminants sont égaux, il y a juste la signature (le signe) qui est modifiée.\\
+
+Démonstration :\\
+
+$det(A) = \sum_{o \varepsilon s} \varepsilon (o^{-1}), ...$\\
+
+$det(T_{a}) = \sum_{o \varepsilon s} \varepsilon (o^{1}), ...$
+
+\vspace{10mm} %5mm vertical space
+C) Déterminant et produit \\
+
+les déterminants sont compatible avec le produit det(AB) = det(A) * det(B) \\
+
+$
+\varphi_{a} (x_{1}, ..., x_{n}) = det(\varphi_{c}) (A*1, ..., A*N))
+$
+
+\vspace{10mm} %5mm vertical space
+D) Déterminant et matrice inversible \\
+
+Une matrice est inversible uniquement si le déterminant est différents de 0. \\
+
+$
+det(A^{-1}) = \frac{1}{det(A)}
+$
+
 \subsection{Calcul du déterminants 2*2}
 \vspace{5mm} %5mm vertical space
 Le calcul du déterminants d'une matrice 2*2 est le résultat d'une soustraction entre la multiplications croisée des 2 ensembles \\
+Il faut utiliser la ligne avec le plus de 0.
 
 \vspace{5mm} %5mm vertical space
 
@@ -152,28 +235,33 @@ $
   )
 )
 
-
+\newpage
 \vspace{8mm} %5mm vertical space
 Calcul du déterminants des matrices 2*2
 \vspace{5mm} %5mm vertical space
 
-$
 1*(\\
-  1*(\\
+1*(\\
+  $
     +1*( (0*3) - (1*2))\\
     -2*( (0*3) - (1*1))\\
     +1*( (0*2) - (0*1))\\
     )\\
+  $
   3*(\\
+  $
     -1((3*3) - (0*1))\\
     +1((3*1) - (0*0))\\
     )\\
+  $
   -4*(\\
+  $
     -1((3*2) - (0*0))\\
     +2((3*1) - (0*0))\\
-    )\\
+  $
   )\\
-$
+)\\
+
 
 
 \vspace{4mm} %5mm vertical space

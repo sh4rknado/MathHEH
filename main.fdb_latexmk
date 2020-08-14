@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1597343147 "main.tex" "main.pdf" "main" 1597343148
+["pdflatex"] 1597395602 "main.tex" "main.pdf" "main" 1597395604
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1591545468 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1591545468 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -92,13 +92,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1597224858 2514053 b845ef33aca6a0cfe16199c7fc3f7b2d ""
   "Chapitre/Exercices.tex" 1597311525 74 7c69a329d4fc435ce48a104c886d0e10 ""
   "Chapitre/Theorie.tex" 1597311575 116 9d8eb363b419ee95e58d9dc6bdea8956 ""
-  "Chapitre1/MatrixExo.tex" 1597318569 3231 62bef062d7a69a6d49ca3980b0bf7778 ""
-  "Chapitre1/MatrixTheorie.tex" 1597317103 2862 f6c9e8bc9b3ca70323aac43494fd7fb3 ""
+  "Chapitre1/MatrixExo.tex" 1597395598 7994 241c0388e30470a96b2ff3140ded86f1 ""
+  "Chapitre1/MatrixTheorie.tex" 1597388776 4496 ba544f235aa5439bb173fcf770ff687e ""
   "Chapitre2/NombreComplexTheorie.tex" 1597314109 68 1f694b50b1c0261a2199b2a52770eeac ""
   "Examen/Examen.tex" 1597343144 10640 c709c99b67cc67d2e4d94102d99eb5a8 ""
-  "main.aux" 1597343148 2723 8d22b37697cd5f3f8de5c77ce9df6b5c "pdflatex"
-  "main.tex" 1597342059 1437 0074e31ce795fac0f75283250153ac05 ""
-  "main.toc" 1597343148 1534 900b707ac7817f1ef037b328f71fac22 "pdflatex"
+  "main.aux" 1597395603 2849 207ba0fa09c8db250c79ef775fcc3653 "pdflatex"
+  "main.tex" 1597385347 1437 0074e31ce795fac0f75283250153ac05 ""
+  "main.toc" 1597395603 1619 9abbc5392f986f904482037dbed49b36 "pdflatex"
   (generated)
   "main.pdf"
   "main.aux"
