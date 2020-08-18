@@ -1,4 +1,64 @@
 \newpage
-\section{Nombres Complexes}
 
-\section*{SubSection Section}
+\section{Nombres Complexes Théorie}
+\vspace{5mm} %5mm vertical space
+
+\subsection{Conversion polaire - cartésienne}
+\vspace{5mm} %5mm vertical space
+
+Définition du module: \\
+
+le module noté $|Z|$ est la longueur du segment (rayon). Elle peut être mesurée  grâce à la formule de pythagore ($\sqrt{a²+b²}$). \\
+
+Démonstration : \\
+
+$|Z| = \rho cos(\theta)+ \rho sin(\theta) *i$ \\
+$|Z| = \sqrt(\rho^{2} cos(\theta)^{2}+ \rho^{2} sin(\theta)^{2})$ \\
+$|Z| = \sqrt(\rho^{2} cos(\theta)^{2}+ sin(\theta))*i $ \\
+$|Z| = \sqrt(\rho^{2}) $ \\
+$|Z| = \rho $ \\
+
+$\rho$ est le module et $\theta$ est l'argument \\
+$Z= P(cos(\theta) + sin(\theta)*i )$ ou $Z= P(cis(\theta))$\\
+
+\vspace{5mm} %5mm vertical space
+Représentation Géographique \\
+
+\begin{tikzpicture}
+  \tkzInit[xmin=-5,xmax=5,ymin=-5,ymax=5]
+  \tkzGrid[sub,color=gray, subxstep=.5,subystep=.5]
+  \tkzAxeXY[very thick]
+  \tkzGrid
+\end{tikzpicture}
+
+\newpage
+
+\subsection{Conversion Cartésienne - Polaire}
+\vspace{5mm} %5mm vertical space
+
+$\rho$ = $\sqrt(x²+y²)$ \\
+
+Démonstration Géométriquement $\theta$ \\
+
+Nous pouvons voir que $\theta$ est modifié en fonction de X et de Y que si nous dessinons un cercle, nous pouvons voir que le segment Y est une tangeante au cercle de rayon X. \\
+
+\begin{tikzpicture}
+  \tkzInit[xmin=-5,xmax=5,ymin=-5,ymax=5]
+  \tkzGrid[sub,color=gray, subxstep=.5,subystep=.5]
+  \tkzAxeXY[very thick]
+  \tkzGrid
+\end{tikzpicture}
+
+$X=\rho * cos(\theta)$ $ $ $ Y=\rho * sin(\theta)$
+
+\vspace{5mm} %5mm vertical space
+Démonstration Algébriquement $\theta$ \\
+
+$\frac{Y}{X}$ = $\frac{\rho * sin(\theta)}{\rho * cos(\theta)}$ \\
+$\frac{Y}{X}$ = $\frac{sin(\theta)}{cos(\theta)}$ \\
+$\frac{Y}{X}$ = tg($\theta)$ \\
+
+\vspace{5mm} %5mm vertical space
+Conclusion : \\
+
+$\theta = arctg(\frac{Y}{X})$

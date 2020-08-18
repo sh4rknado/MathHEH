@@ -5,6 +5,7 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amsthm}
+\usepackage{amssymb}
 \providecommand\implies{\DOTSB\;\Longrightarrow\;}
 \usepackage[french]{babel}
 \frenchbsetup{StandardLists=true}
@@ -13,16 +14,23 @@
 \usepackage{color,soul}
 \usepackage{listings}
 \usepackage{xcolor}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{tkz-euclide}
 
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
 \definecolor{codepurple}{rgb}{0.58,0,0.82}
 \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\newcommand{\R}{$\mathbb{R}$}
+\newcommand{\I}{$\mathbb{I}$}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.11}
+
 
 \lstdefinestyle{mystyle}{
     backgroundcolor=\color{backcolour},
-    commentstyle=\color{codegreen},
-    keywordstyle=\color{magenta},
     numberstyle=\tiny\color{codegray},
     stringstyle=\color{codepurple},
     basicstyle=\ttfamily\footnotesize,
@@ -46,15 +54,14 @@ top=20mm,
 }
 
 \title{Mathématiques appliquée à l'informatique}
-\author{Bertieaux Jordan}
-\date{Août 2020}
+\author{Enseignant : Mr Lerat Sébastien}
+\date{Août-Septembre 2020}
 
 \setlength{\parindent}{0em}
 \setlength{\parskip}{0em}
 
 \begin{document}
 \maketitle
-Enseignant : Mr Lerat Sébastien
 
 \newpage
 \renewcommand*\contentsname{Table de Matières}
@@ -63,5 +70,6 @@ Enseignant : Mr Lerat Sébastien
 \input{Chapitre/Theorie}
 \input{Chapitre/Exercices}
 \input{Examen/Examen}
+\input{Examen/Formules}
 
 \end{document}
