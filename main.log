@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.8.12)  18 AUG 2020 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.8.12)  22 AUG 2020 19:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -202,12 +202,6 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count268
 \enitdp@description=\count269
 )
-(/usr/share/texmf-dist/tex/latex/subfiles/subfiles.sty
-Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
-
-(/usr/share/texmf-dist/tex/latex/import/import.sty
-Package: import 2020/04/01  v 6.2
-))
 (/usr/share/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
@@ -291,12 +285,10 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen169
 \Gin@req@width=\dimen170
 )
-(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
-2020/03/18 3.06c tkz-euclide.sty
-Package: tkz-euclide 2020/03/18 3.06c for euclidan geometry 
-(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-base.sty
-2020/03/18 3.06c tkz-base.sty
-Package: tkz-base 2020/03/18 3.06c tkz-base
+(/usr/share/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
 (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -543,334 +535,20 @@ File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 topaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-angles.code.tex
-File: tikzlibraryangles.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-arrows.code.tex
-File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen277
-))
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowinset=\dimen278
-\pgfarrowlength=\dimen279
-\pgfarrowwidth=\dimen280
-\pgfarrowlinewidth=\dimen281
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-babel.code.tex
-File: tikzlibrarybabel.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-calc.code.tex
-File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen282
-\pgfdecoratedremainingdistance=\dimen283
-\pgfdecoratedinputsegmentcompleteddistance=\dimen284
-\pgfdecoratedinputsegmentremainingdistance=\dimen285
-\pgf@decorate@distancetomove=\dimen286
-\pgf@decorate@repeatstate=\count299
-\pgfdecorationsegmentamplitude=\dimen287
-\pgfdecorationsegmentlength=\dimen288
-)
-\tikz@lib@dec@box=\box61
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.markings.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.markings.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.pathreplacing.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.pathreplacing.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.shapes.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.shapes.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.text.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.text.code.tex
-\pgf@lib@dec@text@box=\box62
-)
-\tikz@lib@dec@te@box=\box63
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.pathmorphing.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.pathmorphing.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-intersections.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.t
-ex (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count300
-))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-patterns.code.tex
-File: tikzlibrarypatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
-File: pgflibrarypatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-plotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
-File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-positioning.code.tex
-File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-quotes.code.tex
-File: tikzlibraryquotes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shadows.code.tex
-File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-fadings.code.tex
-File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
-File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.c
-ode.tex
-File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-through.code.tex
-File: tikzlibrarythrough.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (/usr/share/texmf-dist/tex/latex/numprint/numprint.sty
-Package: numprint 2012/08/20 v1.39 Print numbers (HH)
-
-(/usr/share/texmf-dist/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen289
-\ar@mcellbox=\box64
-\extrarowheight=\dimen290
-\NC@list=\toks53
-\extratabsurround=\skip57
-\backup@length=\skip58
-\ar@cellbox=\box65
-)
-\c@nprt@mantissa@digitsbefore=\count301
-\c@nprt@mantissa@digitsafter=\count302
-\c@nprt@exponent@digitsbefore=\count303
-\c@nprt@exponent@digitsafter=\count304
-\nprt@digitwidth=\skip59
-\nprt@sepwidth=\skip60
-\nprt@decimalwidth=\skip61
-\nprt@blockwidth=\skip62
-\nprt@digittoks=\toks54
-\nprt@pretoks=\toks55
-\nprt@posttoks=\toks56
-\nprt@thisdigit=\count305
-\nprt@curpos=\count306
-\nprt@rndpos=\count307
-\c@nprt@digitsfirstblock=\count308
-\c@nprt@blockcnt=\count309
-\c@nprt@cntprint=\count310
-
-No configuration file `numprint.cfg' found.)
-(/usr/share/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
-(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-06-03 L3 programming layer (loader) 
-
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count311
-\l__pdf_internal_box=\box66
-))
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2020-05-15 L3 Experimental document command parser
-
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
-\l__xparse_current_arg_int=\count312
-\g__xparse_grabber_int=\count313
-\l__xparse_m_args_int=\count314
-\l__xparse_v_nesting_int=\count315
-))
-Package: xfp 2020-05-15 L3 Floating point unit
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp.sty
-Package: fp 1995/04/02
-
-`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(/usr/share/texmf-dist/tex/latex/fp/defpattern.sty
-Package: defpattern 1994/10/12
-\actioncount=\count316
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-basic.sty
-Package: fp-basic 1996/05/13
-\FP@xs=\count317
-\FP@xia=\count318
-\FP@xib=\count319
-\FP@xfa=\count320
-\FP@xfb=\count321
-\FP@rega=\count322
-\FP@regb=\count323
-\FP@regs=\count324
-\FP@times=\count325
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-addons.sty
-Package: fp-addons 1995/03/15
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-snap.sty
-Package: fp-snap 1995/04/05
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-exp.sty
-Package: fp-exp 1995/04/03
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-trigo.sty
-Package: fp-trigo 1995/04/14
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-pas.sty
-Package: fp-pas 1994/08/29
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-random.sty
-Package: fp-random 1995/02/23
-\FPseed=\count326
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-eqn.sty
-Package: fp-eqn 1995/04/03
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-upn.sty
-Package: fp-upn 1996/10/21
-)
-(/usr/share/texmf-dist/tex/latex/fp/fp-eval.sty
-Package: fp-eval 1995/04/03
-))
-\tkzRadius=\dimen291
-\tkzLength=\dimen292
-\tkz@radi=\dimen293
-\tkz@ax=\dimen294
-\tkz@ay=\dimen295
-\tkz@bx=\dimen296
-\tkz@by=\dimen297
-\tkz@cx=\dimen298
-\tkz@cy=\dimen299
-\tkz@dx=\dimen300
-\tkz@dy=\dimen301
-\tkz@tax=\dimen302
-\tkz@tay=\dimen303
-\tkz@tbx=\dimen304
-\tkz@tby=\dimen305
-\tkz@tcx=\dimen306
-\tkz@tcy=\dimen307
-\tkz@tdx=\dimen308
-\tkz@tdy=\dimen309
-\tkz@cntmk=\count327
-
-Local configuration file tkz-base.cfg found and used
-(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-base.cfg
-2020/03/18 3.06c tkz-base.cfg
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-modules.tex
-2020/03/18 3.06c tkz-tools-utilities.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-lib-marks.tex
-2020/03/18 3.06c tkz-lib-symbols.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-base.tex
-2020/03/18 3.06c tkz-tools-base.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-utilities.tex
-2020/03/18 3.06c tkz-tools-utilities.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-tools-math.tex
-2020/03/18 3.06c tkz-tools-math.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-text.tex
-2020/03/18 3.06c tkz-tools-text.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-BB.tex
-2020/03/18 3.06c tkz-obj-BB.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-arith.tex
-2020/03/18 3.06c tkz-tools-arith.tex
-File: tkz-tool-arith.tex tkz-tool-arith 3.02 c
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-print.tex
-2020/03/18 3.06c tkz-tools-print.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-misc.tex
-2020/03/18 3.06c tkz-tools-misc.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-axes.tex
-2020/03/18 3.06c tkz-obj-axes.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-grids.tex
-2020/03/18 3.06c tkz-obj-grids.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-marks.tex
-2020/03/18 3.07c tkz-obj-marks.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-points.tex
-2020/03/18 3.06c tkz-obj-points.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-rep.tex
-2020/03/18 3.06c tkz-obj-rep.tex
-)) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-tools-intersections.tex
-2020/03/18 3.06c tkz-tools-intersections.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-tools-angles.tex
-2020/03/18 3.06c tkz-tools-angles.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-angles.tex
-2020/03/18 3.06c tkz-tool-eu-angles.tex
-\tkz@arcsize=\dimen310
-\tkz@fillsize=\dimen311
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-arcs.tex
-2020/03/23 3.06c tkz-obj-eu-arcs.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-compass.tex
-2020/03/18 3.06c tkz-obj-eu-compass.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-circles.tex
-2020/03/18 3.06c tkz-obj-eu-circles.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-draw-circles.tex
-2020/03/18 3.06c tkz-obj-eu-draw-circles.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-draw-lines.tex
-2020/03/18 3.06c tkz-obj-eu-draw-lines.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-draw-polygons.tex
-2020/03/18 3.06c tkz-obj-eu-polygons.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-draw-triangles.tex)
-(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-lines.tex
-2020/03/18 3.06c tkz-obj-eu-lines.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points.tex
-2020/03/18 3.06c tkz-obj-eu-points.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-by.tex
-2020/03/18 3.06c tkz-tools-eu-points-by.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-rnd.tex
-2020/03/18 3.06c tkz-obj-eu-points-rnd.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-with.tex
-2020/03/18 3.06c tkz-obj-eu-points-with.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-polygons.tex
-2020/03/18 3.06c tkz-obj-eu-polygons.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-protractor.tex
-2020/03/18 3.06c tkz-obj-eu-protractor.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-sectors.tex
-2020/03/18 3.06c tkz-obj-eu-sectors.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-show.tex
-2020/03/18 3.06c tkz-obj-eu-show.tex
-) (/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-triangles.tex
-2020/03/18 3.06c tkz-obj-eu-triangles.tex
-)) (/usr/share/texmf-dist/tex/latex/pgfplots/pgfplots.sty
-(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
-
 (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
 (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks57
-\t@pgfplots@tokb=\toks58
-\t@pgfplots@tokc=\toks59
-\pgfplots@tmpa=\dimen312
-\c@pgfplots@coordindex=\count328
-\c@pgfplots@scanlineindex=\count329
+\t@pgfplots@toka=\toks53
+\t@pgfplots@tokb=\toks54
+\t@pgfplots@tokc=\toks55
+\pgfplots@tmpa=\dimen277
+\c@pgfplots@coordindex=\count299
+\c@pgfplots@scanlineindex=\count300
 
 (/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex))
 (/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_l
-oader.code.tex)
+oader.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
 (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
 (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure
 .code.tex)
@@ -878,14 +556,14 @@ oader.code.tex)
 ext.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.te
 x
-\c@pgfplotsarray@tmp=\count330
+\c@pgfplotsarray@tmp=\count301
 )
 (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.t
 ex)
 (/usr/share/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.t
 ex
-\c@pgfplotstable@counta=\count331
-\t@pgfplotstable@a=\toks60
+\c@pgfplotstable@counta=\count302
+\t@pgfplotstable@a=\toks56
 )
 (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.te
 x) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
@@ -893,7 +571,7 @@ x) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
 (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading
 .code.tex
-\c@pgfplotslibrarysurf@no=\count332
+\c@pgfplotslibrarysurf@no=\count303
 
 (/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.
 pgfsys-pdftex.def)))
@@ -909,29 +587,61 @@ pgfsys-pdftex.def)))
 (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
-\pgfplots@numplots=\count333
-\pgfplots@xmin@reg=\dimen313
-\pgfplots@xmax@reg=\dimen314
-\pgfplots@ymin@reg=\dimen315
-\pgfplots@ymax@reg=\dimen316
-\pgfplots@zmin@reg=\dimen317
-\pgfplots@zmax@reg=\dimen318
-))
-(./main.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen278
+\pgfdecoratedremainingdistance=\dimen279
+\pgfdecoratedinputsegmentcompleteddistance=\dimen280
+\pgfdecoratedinputsegmentremainingdistance=\dimen281
+\pgf@decorate@distancetomove=\dimen282
+\pgf@decorate@repeatstate=\count304
+\pgfdecorationsegmentamplitude=\dimen283
+\pgfdecorationsegmentlength=\dimen284
+)
+\tikz@lib@dec@box=\box61
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathreplacing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathreplacing.code.tex))
+\pgfplots@numplots=\count305
+\pgfplots@xmin@reg=\dimen285
+\pgfplots@xmax@reg=\dimen286
+\pgfplots@ymin@reg=\dimen287
+\pgfplots@ymax@reg=\dimen288
+\pgfplots@zmin@reg=\dimen289
+\pgfplots@zmax@reg=\dimen290
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+plotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count306
+\l__pdf_internal_box=\box62
+) (./main.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
  (/usr/share/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -969,27 +679,27 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \degres on input line 63.
-LaTeX Info: Redefining \dots on input line 63.
-LaTeX Info: Redefining \up on input line 63.
+LaTeX Info: Redefining \degres on input line 62.
+LaTeX Info: Redefining \dots on input line 62.
+LaTeX Info: Redefining \up on input line 62.
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 63.
+(french.ldf)                of your document; reported on input line 62.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count334
-\scratchdimen=\dimen319
-\scratchbox=\box67
-\nofMPsegments=\count335
-\nofMParguments=\count336
-\everyMPshowfont=\toks61
-\MPscratchCnt=\count337
-\MPscratchDim=\dimen320
-\MPnumerator=\count338
-\makeMPintoPDFobject=\count339
-\everyMPtoPDFconversion=\toks62
+\scratchcounter=\count307
+\scratchdimen=\dimen291
+\scratchbox=\box63
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen292
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks58
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -999,7 +709,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count340
+\c@lstlisting=\count313
 
 ABD: EveryShipout initializing macros
 Package pgfplots notification 'compat/show suggested version=true': you might b
@@ -1008,26 +718,26 @@ enefit from \pgfplotsset{compat=1.17} (current compat level: 1.11).
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc)
-\tf@toc=\write4
- (./Chapitre/Theorie.tex [1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc [1
 
-]
+])
+\tf@toc=\write4
+ (./Chapitre/Theorie.tex [2]
 Chapitre 1.
-<./images/math-theo.jpg, id=42, 510.90875pt x 253.94875pt>
+<./images/math-theo.jpg, id=22, 510.90875pt x 253.94875pt>
 File: ./images/math-theo.jpg Graphic file (type jpg)
 <use ./images/math-theo.jpg>
 Package pdftex.def Info: ./images/math-theo.jpg  used on input line 6.
@@ -1037,7 +747,7 @@ Overfull \hbox (27.21066pt too wide) in paragraph at lines 6--7
 [][] 
  []
 
-[2
+[3
 
  <./images/math-theo.jpg>] (./Chapitre1/MatrixTheorie.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
@@ -1104,7 +814,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-[3]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
@@ -1125,26 +835,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 243--248
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
-) (./Chapitre2/NombreComplexTheorie.tex
-Underfull \hbox (badness 10000) in paragraph at lines 272--1
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
 
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+) (./Chapitre2/NombreComplexTheorie.tex
+Underfull \hbox (badness 10000) in paragraph at lines 318--1
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+<./images/cart-mod.jpg, id=44, 244.7544pt x 240.9pt>
+File: ./images/cart-mod.jpg Graphic file (type jpg)
+<use ./images/cart-mod.jpg>
+Package pdftex.def Info: ./images/cart-mod.jpg  used on input line 17.
+(pdftex.def)             Requested size: 367.13068pt x 361.34909pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+[8 <./images/cart-mod.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+<./images/cart-tg.jpg, id=48, 1251.67625pt x 1003.75pt>
+File: ./images/cart-tg.jpg Graphic file (type jpg)
+<use ./images/cart-tg.jpg>
+Package pdftex.def Info: ./images/cart-tg.jpg  used on input line 42.
+(pdftex.def)             Requested size: 375.50577pt x 301.12732pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+) (./Chapitre3/LogiqueTheo.tex [9 <./images/cart-tg.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
@@ -1160,7 +965,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--20
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
@@ -1170,41 +975,204 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--23
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 35--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--60
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
-)) (./Chapitre/Exercices.tex [7]
+(/usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+) [10]
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+
+ []
+
+) (./Chapitre4/EnsemblesTheo.tex [11]
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+2.
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+<./images/Ensembles.png, id=58, 781.92125pt x 742.775pt>
+File: ./images/Ensembles.png Graphic file (type png)
+<use ./images/Ensembles.png>
+Package pdftex.def Info: ./images/Ensembles.png  used on input line 17.
+(pdftex.def)             Requested size: 156.38147pt x 148.55237pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+<./images/EnsemblesInc.png, id=60, 877.2775pt x 544.0325pt>
+File: ./images/EnsemblesInc.png Graphic file (type png)
+<use ./images/EnsemblesInc.png>
+Package pdftex.def Info: ./images/EnsemblesInc.png  used on input line 31.
+(pdftex.def)             Requested size: 175.4524pt x 108.80457pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+[12 <./images/Ensembles.png> <./images/EnsemblesInc.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+File: ./images/EnsemblesInc.png Graphic file (type png)
+<use ./images/EnsemblesInc.png>
+Package pdftex.def Info: ./images/EnsemblesInc.png  used on input line 53.
+(pdftex.def)             Requested size: 175.4524pt x 108.80457pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+<./images/EnsemblesInt.png, id=68, 692.5875pt x 339.2675pt>
+File: ./images/EnsemblesInt.png Graphic file (type png)
+<use ./images/EnsemblesInt.png>
+Package pdftex.def Info: ./images/EnsemblesInt.png  used on input line 76.
+(pdftex.def)             Requested size: 138.51505pt x 67.8523pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+<./images/EnsemblesVide.png, id=69, 692.5875pt x 339.2675pt>
+File: ./images/EnsemblesVide.png Graphic file (type png)
+<use ./images/EnsemblesVide.png>
+Package pdftex.def Info: ./images/EnsemblesVide.png  used on input line 87.
+(pdftex.def)             Requested size: 138.51505pt x 67.8523pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+[13 <./images/EnsemblesInt.png> <./images/EnsemblesVide.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+)) (./Chapitre/Exercices.tex
+Underfull \hbox (badness 10000) in paragraph at lines 135--1
+
+ []
+
+[14]
 Chapitre 2.
 File: ./images/math-theo.jpg Graphic file (type jpg)
 <use ./images/math-theo.jpg>
@@ -1215,9 +1183,9 @@ Overfull \hbox (27.21066pt too wide) in paragraph at lines 5--6
 [][] 
  []
 
-[8
+[15
 
-] (./Chapitre1/MatrixExo.tex [9]
+] (./Chapitre1/MatrixExo.tex [16]
 Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
@@ -1232,7 +1200,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
-[10]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
@@ -1243,32 +1211,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 195--196
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 365--370
+Underfull \hbox (badness 10000) in paragraph at lines 235--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 274--276
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 393--398
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
 
  []
 
@@ -1302,17 +1300,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 558--559
 
  []
 
-[12]
+
 Underfull \hbox (badness 10000) in paragraph at lines 586--587
 
  []
 
-) (./Chapitre2/NombreComplexExos.tex [13]
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+) (./Chapitre2/NombreComplexExos.tex [21]
 Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
-[14]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
@@ -1392,7 +1395,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--137
 
  []
 
-[15]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
@@ -1447,7 +1450,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-[16]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
@@ -1467,7 +1470,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
-[17]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
@@ -1527,7 +1530,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
-[18]
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
@@ -1606,7 +1609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 363--364
 
  []
 
-[19]
+[27]
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 366.
 
@@ -1681,12 +1684,37 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 391.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 391.
 
 Missing character: There is no ° in font cmr10!
-)) (./Examen/Examen.tex
+) (./Chapitre3/LogiqueExos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 391--1
 
  []
 
-[20]
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--46
+
+ []
+
+) (./Chapitre4/EnsemblesExos.tex [29])) (./Examen/Examen.tex [30]
 Chapitre 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
@@ -1708,7 +1736,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-[21
+[31
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
@@ -1787,7 +1815,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-[22]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
@@ -1812,7 +1840,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
-[23]
+[33]
 Underfull \hbox (badness 10000) in paragraph at lines 284--285
 
  []
@@ -1822,7 +1850,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 294--295
 
  []
 
-[24]
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 408--409
 
  []
@@ -1847,9 +1875,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 437--438
 
  []
 
-[25] (/usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
-File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
-)
+[35]
 Underfull \hbox (badness 10000) in paragraph at lines 448--449
 
  []
@@ -1874,13 +1900,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 464--465
 
  []
 
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
-73.
-(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 473.
 
 Underfull \hbox (badness 10000) in paragraph at lines 473--474
 
@@ -1936,7 +1955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 504--505
 
  []
 
-[26]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 511--514
 
  []
@@ -1966,7 +1985,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 548--549
 
  []
 
-[27] (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+[37] (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 5
@@ -1982,7 +2001,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 580--581
 
  []
 
-[28]
+[38]
 Underfull \hbox (badness 10000) in paragraph at lines 605--606
 
  []
@@ -1992,14 +2011,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 608--609
 
  []
 
-) (./Examen/Formules.tex [29]
+) (./Examen/Formules.tex [39]
 Chapitre 4.
-<./images/circle_angles.png, id=142, 1027.84pt x 1027.84pt>
+<./images/circle_angles.png, id=161, 1027.84pt x 1027.84pt>
 File: ./images/circle_angles.png Graphic file (type png)
 <use ./images/circle_angles.png>
 Package pdftex.def Info: ./images/circle_angles.png  used on input line 19.
 (pdftex.def)             Requested size: 308.35437pt x 308.35437pt.
-[30
+[40
 
  <./images/circle_angles.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 25--28
@@ -2016,13 +2035,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
  []
 
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 42.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 42.
-
-Missing character: There is no ° in font cmr10!
 
 Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
@@ -2049,13 +2061,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
  []
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 55.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 55.
-
-Missing character: There is no ° in font cmr10!
-
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
@@ -2081,13 +2086,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
  []
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 68.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 68.
-
-Missing character: There is no ° in font cmr10!
-
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
@@ -2112,15 +2110,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-[31]
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 82.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 82.
-
-Missing character: There is no ° in font cmr10!
-
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
@@ -2135,40 +2125,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 88--74
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
-[32] (./main.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
+
+ []
+
+) [42] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 34135 strings out of 480478
- 799505 string characters out of 5905959
- 1360611 words of memory out of 5000000
- 49433 multiletter control sequences out of 15000+600000
+ 28447 strings out of 480478
+ 661959 string characters out of 5905959
+ 1194360 words of memory out of 5000000
+ 43980 multiletter control sequences out of 15000+600000
  542680 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,13n,98p,725b,1426s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1
-.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/am
-sfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pf
-b>
-Output written on main.pdf (33 pages, 389276 bytes).
+ 68i,13n,98p,725b,1426s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
+s1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.
+pfb>
+Output written on main.pdf (43 pages, 2224687 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
+ 231 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,122 @@
+\newpage
+
+\section{Chaptire 3 : Logique}
+\vspace{5mm} %5mm vertical space
+
+\subsection{Logique propositionnelle}
+\vspace{5mm} %5mm vertical space
+
+Règles pour déterminer si c'est vrai ou faux: \\
+
+1) Principe d'identité : A=A \\
+
+2) Non contradiction : On ne peut pas nier et affirmer la même chose ¬A et A \\
+
+3) Tiers Exlus : Quelques chose existe ou dois ne pas exister A ou ¬A \\
+
+
+\subsection{Proposition}
+\vspace{5mm} %5mm vertical space
+
+C'est un énoncé, une phrase simple : \\
+ex: Ceci est une vidéos $=>$ Vrai ou Faux \\
+
+En logique propositionnelle les propositions ne peuvent qu'être vrai ou fausse \\
+
+exemple de proposition : \\
+2+2 $=>$ Vrai ou Faux \\
+Le mur est blanc $=>$ Vrai ou Faux \\
+
+\subsection{L'implication}
+\vspace{5mm} %5mm vertical space
+
+Si j'ai une proposition A alors B \\
+
+Exemple: \\
+Une paire de chaussure $=>$ j'ai 2 chaussures \\
+Une paire de chaussure implique que j'ai 2 chaussures \\
+A$=>$B : Faux (une paire nécessite d'avoir 2 même chaussures, 2 chaussures peuvent être différentes)\\
+Si A est vrai alors B est vrai \\
+si B est vrai alors A n'est pas forcément vrai \\
+
+\subsection{L'équivalence}
+\vspace{5mm} %5mm vertical space
+
+Il faut que je n'ai pas une paires de chaussures. \\
+A=B : vrai \\
+Si A est vrai alors B est vrai \\
+si B est vrai alors A est vrai \\
+
+\subsection{Vocabulaire}
+\vspace{5mm} %5mm vertical space
+
+Proposition Atomique : Vrai et Faux à la fois \\
+Tautologie : toujours vrai \\
+prédicats :  Pour tout il existe \\
+
+
+
+\subsection{Tableau priorités logique}
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  Opérateur & Logic & priorités & Associativités .\\
+  \hline
+  $<=>$ & Equalité & 1 & gauche \\
+  $=>$ & Implications & 2 & droite \\
+  V & OU & 3 & gauche \\
+  ∧ & ET & 4 & gauche \\
+  ¬ & NON & 5 & gauche \\
+  \hline
+\end{tabular}
+
+
+\subsection{Tautologie}
+\begin{tabular}{|l|c|c|c|}
+  \hline
+  P & ¬ P & P V ¬P \\
+  \hline
+  T & T & ⊥ \\
+  ⊥ & T & T \\
+  \hline
+\end{tabular}
+
+\subsection{Changement de forme}
+\vspace{5mm} %5mm vertical space
+Commutativité: \\
+pvq = qvp \\
+p∧q = q∧p \\
+
+\vspace{5mm} %5mm vertical space
+Associativités: \\
+(pvq)vr = pv(qvr) \\
+(p∧q)∧r = p∧(q∧r) \\
+
+\vspace{5mm} %5mm vertical space
+Distributivités: \\
+pv(q∧r) = (pvq)∧(pvr) \\
+pv(qvr) = (p∧q)v(p∧r) \\
+
+\vspace{5mm} %5mm vertical space
+De Morgans: \\
+a v b= ¬a * ¬b\\
+a*b= ¬a + ¬b\\
+(p∧q) = ¬p v ¬q  \\
+(pvq) = ¬ (¬p ∧ ¬q)  \\
+¬(p∧q) = (p v q)  \\
+(A ∧¬ B) V (¬ A V (C ∧ A)) =  ¬(A ∧¬ B) ∧ ¬(¬ A V (C ∧ A))\\
+
+\vspace{5mm} %5mm vertical space
+Forme conjonctive: \\
+(A ET B) OU C \\
+(A ∧ B) V C\\
+
+\vspace{5mm} %5mm vertical space
+Forme disjonctive : \\
+(A OU B) ET C \\
+(A V B) ∧ C\\
+
+\vspace{5mm} %5mm vertical space
+Transformation: \\
+A$=>$B = ¬A v (A∧B) \\
+A$<=>$B: = (A$=>$B)∧(B$=>$A)  \\
+(A$=>$B)∧(B$=>$A) = (¬A v (A∧B)) ∧ (¬B v (B∧A))
