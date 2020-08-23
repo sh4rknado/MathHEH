@@ -334,6 +334,8 @@ INPUT Chapitre4/EnsemblesExos.tex
 INPUT Chapitre4/EnsemblesExos.tex
 INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT Chapitre6/NombreEntierExos.tex
+INPUT Chapitre6/NombreEntierExos.tex
 INPUT Examen/Examen.tex
 INPUT Examen/Examen.tex
 INPUT /usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
