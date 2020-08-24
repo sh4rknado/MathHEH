@@ -289,6 +289,8 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
+INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
 INPUT Chapitre2/NombreComplexTheorie.tex
 INPUT Chapitre2/NombreComplexTheorie.tex
 INPUT ./images/cart-mod.jpg
@@ -299,8 +301,6 @@ INPUT ./images/cart-tg.jpg
 INPUT ./images/cart-tg.jpg
 INPUT Chapitre3/LogiqueTheo.tex
 INPUT Chapitre3/LogiqueTheo.tex
-INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
-INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-34.def
 INPUT Chapitre4/EnsemblesTheo.tex
 INPUT Chapitre4/EnsemblesTheo.tex
 INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
