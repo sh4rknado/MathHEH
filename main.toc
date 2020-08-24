@@ -50,25 +50,27 @@
 \contentsline {subsection}{\numberline {2.3.1}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{30}%
 \contentsline {subsection}{\numberline {2.3.2}Construire la table de v\IeC {\'e}rit\IeC {\'e}}{30}%
 \contentsline {section}{\numberline {2.4}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles Exercices}{31}%
-\contentsline {subsection}{\numberline {2.4.1}Produit Cart\IeC {\'e}siens}{31}%
-\contentsline {subsection}{\numberline {2.4.2}Exercices Examen}{31}%
-\contentsline {section}{\numberline {2.5}Nombre Entiers Exercices}{33}%
-\contentsline {subsection}{\numberline {2.5.1}Exemple Modulo}{33}%
-\contentsline {chapter}{\numberline {3}Exemple d'examen}{34}%
-\contentsline {section}{\numberline {3.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{34}%
-\contentsline {section}{\numberline {3.2}Q2 : Calcul nombre complex}{36}%
-\contentsline {section}{\numberline {3.3}Q3 : Transformer en forme conjonctive}{39}%
-\contentsline {section}{\numberline {3.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{39}%
-\contentsline {section}{\numberline {3.5}Q5 : Induction forte/faibles}{40}%
-\contentsline {section}{\numberline {3.6}Q6 : Nombre entiers}{40}%
-\contentsline {section}{\numberline {3.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{41}%
-\contentsline {section}{\numberline {3.8}Q8 : Ensemble Naturels}{42}%
-\contentsline {chapter}{\numberline {4}Formules}{43}%
-\contentsline {section}{\numberline {4.1}Tableau Trigonom\IeC {\'e}trique}{43}%
-\contentsline {section}{\numberline {4.2}NB Complex : Cart\IeC {\'e}sienne vers Polaire}{44}%
-\contentsline {section}{\numberline {4.3}NB Complex : Polaire vers Cart\IeC {\'e}sienne}{44}%
-\contentsline {section}{\numberline {4.4}Addition de nombre complex}{44}%
-\contentsline {section}{\numberline {4.5}Soustraction de nombre complex}{44}%
-\contentsline {section}{\numberline {4.6}Multilication de nombre complex}{44}%
-\contentsline {section}{\numberline {4.7}Division de nombre complex}{45}%
-\contentsline {section}{\numberline {4.8}Logique propositionnelle}{45}%
+\contentsline {subsection}{\numberline {2.4.1}Exercices Examen}{31}%
+\contentsline {section}{\numberline {2.5}Nombre Entiers Exercices}{32}%
+\contentsline {subsection}{\numberline {2.5.1}Exemple Modulo}{32}%
+\contentsline {section}{\numberline {2.6}Relation Binaire Exercices}{33}%
+\contentsline {subsection}{\numberline {2.6.1}Produit Cart\IeC {\'e}siens}{33}%
+\contentsline {subsection}{\numberline {2.6.2}Exercices Examen}{33}%
+\contentsline {chapter}{\numberline {3}Exemple d'examen}{35}%
+\contentsline {section}{\numberline {3.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{35}%
+\contentsline {section}{\numberline {3.2}Q2 : Calcul nombre complex}{37}%
+\contentsline {section}{\numberline {3.3}Q3 : Transformer en forme conjonctive}{40}%
+\contentsline {section}{\numberline {3.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{40}%
+\contentsline {section}{\numberline {3.5}Q5 : Induction forte/faibles}{41}%
+\contentsline {section}{\numberline {3.6}Q6 : Nombre entiers}{41}%
+\contentsline {section}{\numberline {3.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{42}%
+\contentsline {section}{\numberline {3.8}Q8 : Ensemble Naturels}{43}%
+\contentsline {chapter}{\numberline {4}Formules}{44}%
+\contentsline {section}{\numberline {4.1}Tableau Trigonom\IeC {\'e}trique}{44}%
+\contentsline {section}{\numberline {4.2}NB Complex : Cart\IeC {\'e}sienne vers Polaire}{45}%
+\contentsline {section}{\numberline {4.3}NB Complex : Polaire vers Cart\IeC {\'e}sienne}{45}%
+\contentsline {section}{\numberline {4.4}Addition de nombre complex}{45}%
+\contentsline {section}{\numberline {4.5}Soustraction de nombre complex}{45}%
+\contentsline {section}{\numberline {4.6}Multilication de nombre complex}{45}%
+\contentsline {section}{\numberline {4.7}Division de nombre complex}{46}%
+\contentsline {section}{\numberline {4.8}Logique propositionnelle}{46}%
