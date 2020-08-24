@@ -459,9 +459,15 @@ B) Utilisation du théorème De Morgan \\
 
   $a+b = ¬ a * ¬ b$\\
 
-  ¬ (A ∧¬ B) ∧ ¬ (¬ A V (C ∧ A)) \\
+  ¬ (A ∧¬ B) ∧ ¬ (¬ A V (A ∧ C)) \\
 
-  S= NEG(A ET NEG(B))ETNEG(NEG(A)OU(C OU A)) \\
+\begin{flushleft}
+C) Simplification des parenthèse \\
+\end{flushleft}
+
+  (¬A ∧ B) ∧ (A V (A ∧ C)) \\
+
+  S= (NEG(A) ET B) ET (A OU (NEG(A) ET NEG(C)) \\
 
 
 \vspace{10mm} %5mm vertical space
