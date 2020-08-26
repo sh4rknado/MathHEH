@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1598368404 "main.tex" "main.pdf" "main" 1598368406
+["pdflatex"] 1598422471 "main.tex" "main.pdf" "main" 1598422474
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1591545468 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1591545468 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -217,8 +217,8 @@
   "Chapitre4/EnsemblesExos.tex" 1598364078 3441 a859d22d2de9d12fe5ad578d7b0de517 ""
   "Chapitre4/EnsemblesTheo.tex" 1598283800 3920 8b2226c2ebcbdf9880990ed7d74185a7 ""
   "Chapitre6/NombreEntierExos.tex" 1598173608 443 f41577b87c91cc17fdbf4f84573ff9c4 ""
-  "Chapitre8/RelationBinaireExos.tex" 1598284056 2499 6418fcd3ad17ae2c5b96b04f8f0f0fe6 ""
-  "Examen/Examen.tex" 1598368298 11358 aa9389222ce1b5fd0a9884bd1a9815c5 ""
+  "Chapitre8/RelationBinaireExos.tex" 1598422467 3205 5cd0ca1b6ccc696780310a935d42dd8a ""
+  "Examen/Examen.tex" 1598420472 12213 94e476e742738b89c416f60a000564c6 ""
   "Examen/Formules.tex" 1598368400 4020 d61d7db223c52a9396704c3d2779c7e7 ""
   "images/Ensembles.png" 1597836959 547390 f992a5cff9faeb552344a19a2683ef6c ""
   "images/EnsemblesInc.png" 1597837771 504688 f1a9c668bccb6de39743f262e3f75a65 ""
@@ -228,11 +228,11 @@
   "images/cart-tg.jpg" 1597832238 187110 3cdf39121a4a7a357696ff4f095c6bc0 ""
   "images/circle_angles.png" 1597246651 177965 11d624b99b19cffb7fac3b9bad190453 ""
   "images/math-theo.jpg" 1597758000 23577 18aa1a1ca276fd75ddd5269a4d0fc98e ""
-  "main.aux" 1598368406 10668 595c8da5e62250d1a69b0d2a02a9a480 "pdflatex"
+  "main.aux" 1598422473 10547 9c74e0a628a02c417e3ca0b88577b874 "pdflatex"
   "main.tex" 1598368324 1595 f1474d90ff4433581b072436ce844cd4 ""
-  "main.toc" 1598368406 6777 fa4c3b5b4c5b969cbbb603cc1ce8a616 "pdflatex"
+  "main.toc" 1598422473 6697 98ddf1ef2b7300f3483443cee58ee86e "pdflatex"
   (generated)
-  "main.log"
   "main.aux"
-  "main.pdf"
   "main.toc"
+  "main.log"
+  "main.pdf"
