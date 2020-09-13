@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1598422471 "main.tex" "main.pdf" "main" 1598422474
+["pdflatex"] 1599997689 "main.tex" "main.pdf" "main" 1599997692
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1591545468 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1591545468 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -204,11 +204,11 @@
   "/usr/share/texmf-dist/tex/latex/was/upgreek.sty" 1591524854 5794 9054e31be15d93f1e6bd28cca2b6643f ""
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1591545468 55589 34128738f682d033422ca125f82e5d62 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1597224863 4855604 a2b69e422d881628e3d9a5db2035053f ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1597224858 2514053 b845ef33aca6a0cfe16199c7fc3f7b2d ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1599910429 4855604 a2b69e422d881628e3d9a5db2035053f ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1599910389 2514051 36d9c2b1917fb2d60874ea8d8be72e2d ""
   "Chapitre/Exercices.tex" 1598284159 317 f46b01a05e40da5b778f31554d92f633 ""
   "Chapitre/Theorie.tex" 1597837107 251 85336dfe50c9904ebc4cf08daf12df4a ""
-  "Chapitre1/MatrixExo.tex" 1598195866 9756 e12d62b6f62bdd5a0051c04d0f74d100 ""
+  "Chapitre1/MatrixExo.tex" 1599997682 11486 f6c7c58a0d5039415c65e267fbede753 ""
   "Chapitre1/MatrixTheorie.tex" 1598283544 7732 7eda6facb3e023770faf52426fde1b40 ""
   "Chapitre2/NombreComplexExos.tex" 1597753924 8835 04794dbe887788c6471caf5e3bbbbc98 ""
   "Chapitre2/NombreComplexTheorie.tex" 1597836266 1577 4566d1d9afda9bcc83a3277316f7f5a9 ""
@@ -228,11 +228,11 @@
   "images/cart-tg.jpg" 1597832238 187110 3cdf39121a4a7a357696ff4f095c6bc0 ""
   "images/circle_angles.png" 1597246651 177965 11d624b99b19cffb7fac3b9bad190453 ""
   "images/math-theo.jpg" 1597758000 23577 18aa1a1ca276fd75ddd5269a4d0fc98e ""
-  "main.aux" 1598422473 10547 9c74e0a628a02c417e3ca0b88577b874 "pdflatex"
-  "main.tex" 1598368324 1595 f1474d90ff4433581b072436ce844cd4 ""
-  "main.toc" 1598422473 6697 98ddf1ef2b7300f3483443cee58ee86e "pdflatex"
+  "main.aux" 1599997691 10547 15c55cb73d5f485e72d2e5e2e0f17e7f "pdflatex"
+  "main.tex" 1599934145 1595 f1474d90ff4433581b072436ce844cd4 ""
+  "main.toc" 1599997691 6697 23a694bad698ac7a6fa56c334951fe60 "pdflatex"
   (generated)
-  "main.aux"
-  "main.toc"
   "main.log"
+  "main.aux"
   "main.pdf"
+  "main.toc"

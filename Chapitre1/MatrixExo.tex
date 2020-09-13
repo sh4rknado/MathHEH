@@ -41,8 +41,8 @@ $
 \item Calculer 2,5*C
 \item Calculer $B^{t}+C$
 \item Calculer le déterminants de A
-\item Exercices d'examens
 \item Exercices supplémentaire (Déplacement 3D)
+\item Exercices prépartion examen (déterminant)
 \end{enumerate}
 
 \newpage
@@ -390,11 +390,9 @@ S= det(A) = \hl{\textbf{96}} \\
 
 H) Déplacement 3D \\
 
-R=10u\\
-H=300l où L=40cm + hauteur du casier\\
-P=($(\frac{3}{5})* R<R$)\\
-$\theta =0$\\
-Z= $R+(\frac{B}{100}*R) = R+(\frac{2}{100})*R=20cm $\\
+R=10u H=300l où L=40cm + hauteur du casier \\
+P=($(\frac{3}{5})* R<R$) \\
+$\theta =0$ Z= $R+(\frac{B}{100}*R) = R+(\frac{2}{100})*R=20cm $ \\
 
 Etape 0: Coordonnées de la pince: \\
 
@@ -583,7 +581,7 @@ $
 \end{pmatrix}
 $
 
-Etape 7: Rotation -45° : \\
+Etape 7: Rotation -45° & Retour à 0 : \\
 
 $
 \begin{pmatrix}
@@ -610,26 +608,6 @@ $
   0 & 1 \\
 \end{pmatrix}
 $
-
-Etape 8: Retour à 0 : \\
-
-$
-\begin{pmatrix}
-  X_{8} \\
-  Y_{8} \\
-  Z_{8} \\
-\end{pmatrix}
-$
-\vspace{5mm} %5mm vertical space
-$
-=
-\begin{pmatrix}
-  X_{7} \\
-  Y_{7} \\
-  Z_{7} \\
-\end{pmatrix}
-$
-\vspace{5mm} %5mm vertical space
 $
  -
 \begin{pmatrix}
@@ -638,3 +616,128 @@ $
   -15l \\
 \end{pmatrix}
 $
+
+\vspace{15mm} %5mm vertical space
+
+I) Calcul du déterminant \\
+
+a=3 b=10 c=5 \\
+
+$
+\begin{pmatrix}
+  a 1337 \\
+  b 42 \\
+  c 8086 \\
+\end{pmatrix}
+$
+\vspace{5mm} %5mm vertical space
+$
+*
+\begin{pmatrix}
+  2 5 6 \\
+  4 0 4 \\
+\end{pmatrix}
+$
+\vspace{5mm} %5mm vertical space
+
+Etape 1 :  Calculer la multiplication \\
+
+\vspace{3mm} %5mm vertical space
+$
+\begin{pmatrix}
+  a*2+1337*4 & a*5+1337*0  & a*6+1337*4 \\
+  b*2+42*4   & b*5+42*0    & b*6+42*4   \\
+  c*2+8086*4 & c*5+8086*0  & c*6+8086*4 \\
+\end{pmatrix}
+$
+\vspace{5mm} %5mm vertical space
+
+Etape 2 : Remplacement des valeurs \\
+
+\vspace{5mm} %5mm vertical space
+$
+\begin{pmatrix}
+  3*2+1337*4 & 3*5  & 3*6+1337*4  \\
+  10*2+42*4  & 10*5 & 10*6+42*4   \\
+  5*2+8086*4 &  5*5  & 5*6+8086*4 \\
+\end{pmatrix}
+$
+
+\vspace{5mm} %5mm vertical space
+$
+\begin{pmatrix}
+  5354 & 15 & 5366   \\
+  188 &  50 & 228    \\
+  32354 & 25 & 32374 \\
+\end{pmatrix}
+$
+\vspace{5mm} %5mm vertical space
+
+$
+\begin{pmatrix}
+  5354 & 15 & 5366   \\
+  188 &  50 & 228    \\
+  32354 & 25 & 32374 \\
+\end{pmatrix}
+$
+\vspace{5mm} %5mm vertical space
+$
+\begin{pmatrix}
+  + & - & + \\
+  - & + & - \\
+  + & - & + \\
+\end{pmatrix}
+$
+\vspace{5mm} %5mm vertical space
+
+Etape 4 :  Extraction des matrices 2*2 \\
+
+\vspace{5mm} %5mm vertical space
+
+$
++5354 *(
+\begin{pmatrix}
+  50 & 228  \\
+  25 & 32374  \\
+\end{pmatrix}
+)
+
+-15 *(
+\begin{pmatrix}
+  188 & 228  \\
+  32354 & 32374  \\
+\end{pmatrix}
+)
+
++5366 *(
+\begin{pmatrix}
+  188 & 50  \\
+  32354 & 25  \\
+\end{pmatrix}
+)
+
+$
+
+\vspace{5mm} %5mm vertical space
+
++5354 *((50*32374) - (228*25)) \\
+
+-15 *((188*32374) - (32354*228)) \\
+
++5366 *((188*25) - (32354*50)) \\
+
+\vspace{5mm} %5mm vertical space
+
++5354 *((1618700) - (5700)) \\
+
+-15 *((6086312) - (7376712)) \\
+
++5366 *((4700) - (1617700)) \\
+
+\vspace{5mm} %5mm vertical space
+
+8 636 002 000 -(-19 356 000) +(-8 655 358 000) \\
+
+8 636 002 000 + 19 356 000 -8 655 358 000 \\
+
+8 655 358 000 - 8 655 358 000 = 0 \\
