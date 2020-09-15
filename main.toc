@@ -37,46 +37,46 @@
 \contentsline {section}{\numberline {2.1}Exercice Matrices}{17}%
 \contentsline {subsection}{\numberline {2.1.1}Enonc\IeC {\'e}s des exercices}{17}%
 \contentsline {subsection}{\numberline {2.1.2}R\IeC {\'e}solution des exercices}{18}%
-\contentsline {section}{\numberline {2.2}Nombres Complexes Exercices}{24}%
-\contentsline {subsection}{\numberline {2.2.1}Exercices : Enonc\IeC {\'e}s}{24}%
-\contentsline {subsection}{\numberline {2.2.2}R\IeC {\'e}soudre les \IeC {\'e}quations suivantes:}{25}%
-\contentsline {subsection}{\numberline {2.2.3}Trouver le conjugu\IeC {\'e}s:}{27}%
-\contentsline {subsection}{\numberline {2.2.4}Identifier $\mathbb {R}$$ $ $\mathbb {I}$}{27}%
-\contentsline {subsection}{\numberline {2.2.5}Exprimer sous forme a+bi}{27}%
-\contentsline {subsection}{\numberline {2.2.6}Exprimer sous forme polaire}{27}%
-\contentsline {subsection}{\numberline {2.2.7}Exprimer sous forme cart\IeC {\'e}sienne}{28}%
-\contentsline {subsection}{\numberline {2.2.8}Trouver la solution}{29}%
-\contentsline {section}{\numberline {2.3}Logique propositionnelle exercices}{31}%
-\contentsline {subsection}{\numberline {2.3.1}Enonc\IeC {\'e} Exercices}{31}%
-\contentsline {subsection}{\numberline {2.3.2}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{31}%
-\contentsline {subsection}{\numberline {2.3.3}Construire la table de v\IeC {\'e}rit\IeC {\'e}}{31}%
-\contentsline {section}{\numberline {2.4}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles Exercices}{32}%
-\contentsline {subsection}{\numberline {2.4.1}Enonc\IeC {\'e} d'exercices}{32}%
-\contentsline {subsection}{\numberline {2.4.2}R\IeC {\'e}solution}{32}%
-\contentsline {section}{\numberline {2.5}Nombre Entiers Exercices}{35}%
-\contentsline {subsection}{\numberline {2.5.1}Exemple Modulo}{35}%
-\contentsline {section}{\numberline {2.6}Relation Binaire Exercices}{36}%
-\contentsline {subsection}{\numberline {2.6.1}Exercices Examen}{36}%
-\contentsline {chapter}{\numberline {3}Exemple d'examen}{39}%
-\contentsline {section}{\numberline {3.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{39}%
-\contentsline {section}{\numberline {3.2}Q2 : Calcul nombre complex}{41}%
-\contentsline {section}{\numberline {3.3}Q3 : Transformer en forme conjonctive}{44}%
-\contentsline {section}{\numberline {3.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{44}%
-\contentsline {section}{\numberline {3.5}Q5 : Induction forte/faibles}{46}%
-\contentsline {section}{\numberline {3.6}Q6 : Nombre entiers}{47}%
-\contentsline {section}{\numberline {3.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{48}%
-\contentsline {section}{\numberline {3.8}Q8 : Ensemble Naturels}{49}%
-\contentsline {chapter}{\numberline {4}Formules}{50}%
-\contentsline {section}{\numberline {4.1}Tableau Trigonom\IeC {\'e}trique}{50}%
-\contentsline {section}{\numberline {4.2}NB Complex : Forme Polaire vers Cart\IeC {\'e}sienne}{51}%
-\contentsline {section}{\numberline {4.3}Addition de nombres complex (cart\IeC {\'e}sien)}{51}%
-\contentsline {section}{\numberline {4.4}Soustraction de nombres complex (cart\IeC {\'e}sien)}{51}%
-\contentsline {section}{\numberline {4.5}Multilication de nombres complex (cart\IeC {\'e}sien)}{51}%
-\contentsline {section}{\numberline {4.6}Division de nombres complex (cart\IeC {\'e}sien)}{51}%
-\contentsline {section}{\numberline {4.7}NB Complex : Forme cart\IeC {\'e}sienne vers polaire}{52}%
-\contentsline {section}{\numberline {4.8}Addition de nombres complex (Polaire)}{52}%
-\contentsline {section}{\numberline {4.9}Soustraction de nombres complex (Polaire)}{52}%
-\contentsline {section}{\numberline {4.10}Multilication de nombres complex (Polaire)}{52}%
-\contentsline {section}{\numberline {4.11}Division de nombres complex (Polaire)}{52}%
-\contentsline {section}{\numberline {4.12}Logique propositionnelle}{53}%
-\contentsline {section}{\numberline {4.13}Algorithmique symbole}{53}%
+\contentsline {section}{\numberline {2.2}Nombres Complexes Exercices}{29}%
+\contentsline {subsection}{\numberline {2.2.1}Exercices : Enonc\IeC {\'e}s}{29}%
+\contentsline {subsection}{\numberline {2.2.2}R\IeC {\'e}soudre les \IeC {\'e}quations suivantes:}{30}%
+\contentsline {subsection}{\numberline {2.2.3}Trouver le conjugu\IeC {\'e}s:}{32}%
+\contentsline {subsection}{\numberline {2.2.4}Identifier $\mathbb {R}$$ $ $\mathbb {I}$}{32}%
+\contentsline {subsection}{\numberline {2.2.5}Exprimer sous forme a+bi}{32}%
+\contentsline {subsection}{\numberline {2.2.6}Exprimer sous forme polaire}{32}%
+\contentsline {subsection}{\numberline {2.2.7}Exprimer sous forme cart\IeC {\'e}sienne}{33}%
+\contentsline {subsection}{\numberline {2.2.8}Trouver la solution}{34}%
+\contentsline {section}{\numberline {2.3}Logique propositionnelle exercices}{36}%
+\contentsline {subsection}{\numberline {2.3.1}Enonc\IeC {\'e} Exercices}{36}%
+\contentsline {subsection}{\numberline {2.3.2}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{36}%
+\contentsline {subsection}{\numberline {2.3.3}Construire la table de v\IeC {\'e}rit\IeC {\'e}}{36}%
+\contentsline {section}{\numberline {2.4}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles Exercices}{37}%
+\contentsline {subsection}{\numberline {2.4.1}Enonc\IeC {\'e} d'exercices}{37}%
+\contentsline {subsection}{\numberline {2.4.2}R\IeC {\'e}solution}{37}%
+\contentsline {section}{\numberline {2.5}Nombre Entiers Exercices}{40}%
+\contentsline {subsection}{\numberline {2.5.1}Exemple Modulo}{40}%
+\contentsline {section}{\numberline {2.6}Relation Binaire Exercices}{41}%
+\contentsline {subsection}{\numberline {2.6.1}Exercices Examen}{41}%
+\contentsline {chapter}{\numberline {3}Exemple d'examen}{44}%
+\contentsline {section}{\numberline {3.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{44}%
+\contentsline {section}{\numberline {3.2}Q2 : Calcul nombre complex}{46}%
+\contentsline {section}{\numberline {3.3}Q3 : Transformer en forme conjonctive}{49}%
+\contentsline {section}{\numberline {3.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{49}%
+\contentsline {section}{\numberline {3.5}Q5 : Induction forte/faibles}{51}%
+\contentsline {section}{\numberline {3.6}Q6 : Nombre entiers}{52}%
+\contentsline {section}{\numberline {3.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{53}%
+\contentsline {section}{\numberline {3.8}Q8 : Ensemble Naturels}{54}%
+\contentsline {chapter}{\numberline {4}Formules}{55}%
+\contentsline {section}{\numberline {4.1}Tableau Trigonom\IeC {\'e}trique}{55}%
+\contentsline {section}{\numberline {4.2}NB Complex : Forme Polaire vers Cart\IeC {\'e}sienne}{56}%
+\contentsline {section}{\numberline {4.3}Addition de nombres complex (cart\IeC {\'e}sien)}{56}%
+\contentsline {section}{\numberline {4.4}Soustraction de nombres complex (cart\IeC {\'e}sien)}{56}%
+\contentsline {section}{\numberline {4.5}Multilication de nombres complex (cart\IeC {\'e}sien)}{56}%
+\contentsline {section}{\numberline {4.6}Division de nombres complex (cart\IeC {\'e}sien)}{56}%
+\contentsline {section}{\numberline {4.7}NB Complex : Forme cart\IeC {\'e}sienne vers polaire}{57}%
+\contentsline {section}{\numberline {4.8}Addition de nombres complex (Polaire)}{57}%
+\contentsline {section}{\numberline {4.9}Soustraction de nombres complex (Polaire)}{57}%
+\contentsline {section}{\numberline {4.10}Multilication de nombres complex (Polaire)}{57}%
+\contentsline {section}{\numberline {4.11}Division de nombres complex (Polaire)}{57}%
+\contentsline {section}{\numberline {4.12}Logique propositionnelle}{58}%
+\contentsline {section}{\numberline {4.13}Algorithmique symbole}{58}%

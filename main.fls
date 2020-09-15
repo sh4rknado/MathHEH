@@ -334,6 +334,8 @@ INPUT ./images/math-theo.jpg
 INPUT ./images/math-theo.jpg
 INPUT Chapitre1/MatrixExo.tex
 INPUT Chapitre1/MatrixExo.tex
+INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT Chapitre2/NombreComplexExos.tex
 INPUT Chapitre2/NombreComplexExos.tex
 INPUT Chapitre3/LogiqueExos.tex
@@ -344,8 +346,6 @@ INPUT Chapitre6/NombreEntierExos.tex
 INPUT Chapitre6/NombreEntierExos.tex
 INPUT Chapitre8/RelationBinaireExos.tex
 INPUT Chapitre8/RelationBinaireExos.tex
-INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
-INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT Examen/Examen.tex
 INPUT Examen/Examen.tex
 INPUT /usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
