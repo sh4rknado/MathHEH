@@ -1,5 +1,5 @@
 
-\documentclass{report}
+\documentclass[12pt]{report}
 \usepackage[utf8x]{inputenc}
 \usepackage{geometry}
 \usepackage{amsmath}
@@ -10,6 +10,7 @@
 \usepackage[french]{babel}
 \frenchbsetup{StandardLists=true}
 \usepackage{enumitem}
+
 \usepackage{color,soul}
 \usepackage{listings}
 \usepackage{xcolor}
@@ -24,6 +25,11 @@
 \newcommand{\R}{$\mathbb{R}$}
 \newcommand{\I}{$\mathbb{I}$}
 \newcommand{\N}{$\mathbb{N}$}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter:}{10pt}{\Huge}
+\titlespacing{\chapter}{0pt}{-30pt}{10pt}
 
 \usepackage{pgfplots}
 \pgfplotsset{compat=1.11}
@@ -68,7 +74,7 @@ top=20mm,
 
 \input{Chapitre/Theorie}
 \input{Chapitre/Exercices}
-\input{Examen/Examen}
+% \input{Examen/Examen}
 \input{Examen/Formules}
 
 \end{document}

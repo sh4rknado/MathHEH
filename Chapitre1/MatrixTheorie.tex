@@ -1,19 +1,14 @@
 
 \newpage
-\section{Matrices Théories}
-\vspace{10mm} %5mm vertical space
+\chapter{Matrices Théories}
+\section{Les propriétés}
+\vspace{3mm} %5mm vertical space
 
-\subsection{Les propriétés}
-\vspace{5mm} %5mm vertical space
-
-A) Linéarité \\
+\textbf{A) Linéarité }\\
 
 si on multiplie une matrice par $\lambda$, le déterminant est multiplié par $\lambda^{n}$ et toutes les lignes et colonnes sont multiplié par $\lambda=det(A)*\lambda^{n}$ \\
-\vspace{5mm} %5mm vertical space
 
-$
-det(A+B) \neq det(A)+det(B) ? \\
-$
+$det(A+B) \neq det(A)+det(B) ?$ \\
 
 Exemple:\\
 
@@ -24,7 +19,7 @@ A =
   0 & b \\
 \end{pmatrix}
 $
-\vspace{5mm} %5mm vertical space
+\vspace{3mm} %5mm vertical space
 $
 B =
 \begin{pmatrix}
@@ -33,9 +28,7 @@ B =
 \end{pmatrix}
 $
 
-\vspace{3mm} %5mm vertical space
-det(A)=ab et det(B)=cd\\
-\vspace{5mm} %5mm vertical space
+$det(A)=ab et det(B)=cd $ \\
 
 Conclusion : \\
 
@@ -48,16 +41,15 @@ C =
 $
 
 \vspace{3mm} %5mm vertical space
-$
-det(C)=(a+c)*(b+d) \\
-$
+$det(C)=(a+c)*(b+d)$ \\
+
 
 \vspace{3mm} %5mm vertical space
 $\lambda^{n} \neq$ linéaire \\
 $\lambda^{n}$ est exponentielle
 
-\vspace{10mm} %5mm vertical space
-B) Déterminant et transposée \\
+\vspace{6mm} %5mm vertical space
+\textbf{B) Déterminant et transposée} \\
 
 Det(A) = det(A), les déterminants sont égaux, il y a juste la signature (le signe) qui est modifiée.\\
 
@@ -67,25 +59,21 @@ $det(A) = \sum_{o \varepsilon s} \varepsilon (o^{-1}), ...$\\
 
 $det(T_{a}) = \sum_{o \varepsilon s} \varepsilon (o^{1}), ...$
 
-\vspace{10mm} %5mm vertical space
-C) Déterminant et produit \\
+\vspace{6mm} %5mm vertical space
+\textbf{C) Déterminant et produit} \\
 
 les déterminants sont compatible avec le produit det(AB) = det(A) * det(B) \\
 
-$
-\varphi_{a} (x_{1}, ..., x_{n}) = det(\varphi_{c}) (A*1, ..., A*N))
-$
+$\varphi_{a} (x_{1}, ..., x_{n}) = det(\varphi_{c}) (A*1, ..., A*N))$
 
-\vspace{10mm} %5mm vertical space
-D) Déterminant et matrice inversible \\
+\vspace{6mm} %5mm vertical space
+\textbf{D) Déterminant et matrice inversible} \\
 
 Une matrice est inversible uniquement si le déterminant est différents de 0. \\
 
-$
-det(A^{-1}) = \frac{1}{det(A)}
-$
+$det(A^{-1}) = \frac{1}{det(A)}$
 
-\subsection{Calcul du déterminants 2*2}
+\section{Calcul du déterminants 2*2}
 \vspace{5mm} %5mm vertical space
 Le calcul du déterminants d'une matrice 2*2 est le résultat d'une soustraction entre la multiplications croisée des 2 ensembles \\
 Il faut utiliser la ligne avec le plus de 0.
@@ -110,7 +98,7 @@ det(A) = (-5)\\
 
 S = -5\\
 
-\subsection{Calcul du déterminants 4*4 ou n*n}
+\section{Calcul du déterminants 4*4 ou n*n}
 \vspace{5mm} %5mm vertical space
 Le calcul du déterminants d'une matrice n*n est le résultat d'une série d'opération entre les sous matrices.
 \vspace{5mm} %5mm vertical space
@@ -120,19 +108,6 @@ A =
 \begin{pmatrix}
   0 & 1 & 2 & 3 \\
   1 & 2 & 3 & 0 \\
-  2 & 3 & 0 & 1 \\
-  3 & 0 & 1 & 2 \\
-\end{pmatrix}
-$
-
-\vspace{10mm} %5mm vertical space
-
-
-$
-A =
-\begin{pmatrix}
-  1 & 2 & 3 & 0 \\
-  0 & 1 & 2 & 3 \\
   2 & 3 & 0 & 1 \\
   3 & 0 & 1 & 2 \\
 \end{pmatrix}
@@ -151,9 +126,7 @@ A =
 \end{pmatrix}
 $
 \vspace{5mm} %5mm vertical space
-
 $
-A =
 \begin{pmatrix}
   \hl{\textbf{1}} & \hl{\textbf{2}} & \hl{\textbf{3}} & \hl{\textbf{0}} \\
   \hl{\textbf{0}} & \hl{\textbf{-1}} & \hl{\textbf{-2}} & \hl{\textbf{-3}} \\
@@ -162,12 +135,12 @@ A =
 \end{pmatrix}
 $
 
-\vspace{10mm} %5mm vertical space
-Méthodes du pivot de Gauss \\
+\vspace{5mm} %5mm vertical space
+\textbf{Méthodes du pivot de Gauss} \\
 
-\vspace{10mm} %5mm vertical space
 Mise à zero de L3 \\
 L3 - (2*L1) = L3 \\
+\vspace{2mm}
 
 $
 A =
@@ -203,7 +176,7 @@ A =
 \end{pmatrix}
 $
 
-\vspace{10mm} %5mm vertical space
+\vspace{3mm} %5mm vertical space
 
 Mise à zero de L4 \\
 L4 - (3*L1) = L4 \\
@@ -242,10 +215,11 @@ A =
 \end{pmatrix}
 $
 
-A partir de ce moment-ci, nous pouvons utiliser la formule de sarus, liebniz, ... \\
-Exmples: \\
+\vspace{5mm} %5mm vertical space
 
-\subsection{Méthode Elimination de Gauss}
+A partir de ce moment-ci, nous pouvons utiliser la formule de sarus, liebniz, ... \\
+
+\section{Méthode Elimination de Gauss}
 
 \vspace{5mm} %5mm vertical space
 
@@ -273,8 +247,7 @@ A =
 \end{pmatrix}
 $
 
-\vspace{5mm} %5mm vertical space
-
+\newpage
 L4 = L4-6*L2 \\
 
 \vspace{5mm} %5mm vertical space
@@ -317,7 +290,6 @@ A =
 \end{pmatrix}
 $
 
-\vspace{5mm} %5mm vertical space
 Fin de la triangulaire Suppérieures \\
 
 $
@@ -336,7 +308,7 @@ $
 \vspace{4mm} %5mm vertical space
 S= det(A) = \hl{\textbf{96}} \\
 
-\subsection{Autres Méthode}
+\section{Autres Méthode}
 
 Elimination en matrice 3*3 \\
 
@@ -355,19 +327,13 @@ $
 \vspace{5mm} %5mm vertical space
 
 $
-A = 1*( \\
+A = 1*(
   \begin{pmatrix}
     -1 & -2 & -3 \\
     -1 & -6 & 1  \\
     -6 & -8 & 2  \\
-  \end{pmatrix}
-)\\
+  \end{pmatrix})
 $
-
-\vspace{5mm} %5mm vertical space
-
-Création de la matrice de signe \\
-
 $
   \begin{pmatrix}
     + & - & +  \\
@@ -376,37 +342,32 @@ $
     - & + & -  \\
   \end{pmatrix}
 $
-
 
 \vspace{5mm} %5mm vertical space
 
 Extraction Matrice 2*2 \\
 
 $
-A = \\
-1*( \\
-  +(-1)*( \\
+A =
+1*(
+  (-1)*(
   \begin{pmatrix}
     6 & 1 \\
     8 & 2 \\
-  \end{pmatrix}
-  ) \\
-  -(-2)*( \\
+  \end{pmatrix})
+  -(-2)*(
   \begin{pmatrix}
     1 & 1 \\
     6 & 2 \\
-  \end{pmatrix}
-  ) \\
-  +3*( \\
+  \end{pmatrix})
+  +3*(
   \begin{pmatrix}
     1 & 6 \\
     6 & 8 \\
   \end{pmatrix}
-  )\\
-)\\
-$
-
-\vspace{5mm} %5mm vertical space
+  )
+)
+$ \\
 
 Mise en équation \\
 
@@ -419,7 +380,7 @@ A =
 ) \\
 $
 
-\vspace{5mm} %5mm vertical space
+\vspace{2mm} %5mm vertical space
 
 $
 A =
@@ -430,19 +391,16 @@ A =
 ) \\
 $
 
-\vspace{5mm} %5mm vertical space
+\vspace{2mm} %5mm vertical space
 
 $
 A =
-1*( \\
-  (-1*4)  \\
+1*((-1*4)  \\
   (2*(-4)) \\
   (3*(-28))  \\
 ) \\
 $
 
-\vspace{5mm} %5mm vertical space
+\vspace{2mm} %5mm vertical space
 4−(−8)−(−84)=\hl{\textbf{96}} \\
-
-\vspace{4mm} %5mm vertical space
 S= det(A) = \hl{\textbf{96}} \\
