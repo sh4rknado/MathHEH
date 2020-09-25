@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1600955466 "main.tex" "main.pdf" "main" 1600955468
+["pdflatex"] 1600973822 "main.tex" "main.pdf" "main" 1600973825
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1591545468 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1591545468 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -205,7 +205,7 @@
   "Chapitre1/MatrixExo.tex" 1600950421 16490 bf7c286eb2c9571714ecb6228c3e5fff ""
   "Chapitre1/MatrixTheorie.tex" 1600943766 7225 1d99475cbaaf55a5ff474889a46e2466 ""
   "Chapitre2/NombreComplexExos.tex" 1600955466 11645 26e23f66fbc41f8fee8741e6ecbf055d ""
-  "Chapitre2/NombreComplexTheorie.tex" 1600950880 1985 7568cdac421dee0b83d0bb395ce45f45 ""
+  "Chapitre2/NombreComplexTheorie.tex" 1600973820 3020 15f796f592eb679c260cdc56f770fda0 ""
   "Chapitre3/LogiqueExos.tex" 1598285536 1179 e16c82402fd01d674106321d699ee330 ""
   "Chapitre3/LogiqueTheo.tex" 1600945304 2861 0030190858f0e4fd77926b11cb507c39 ""
   "Chapitre4/EnsemblesExos.tex" 1598364078 3441 a859d22d2de9d12fe5ad578d7b0de517 ""
@@ -221,11 +221,11 @@
   "images/cart-tg.jpg" 1597832238 187110 3cdf39121a4a7a357696ff4f095c6bc0 ""
   "images/circle_angles.png" 1597246651 177965 11d624b99b19cffb7fac3b9bad190453 ""
   "images/math-theo.jpg" 1597758000 23577 18aa1a1ca276fd75ddd5269a4d0fc98e ""
-  "main.aux" 1600955468 9699 832403e9d41a5e475896ee20571b6682 "pdflatex"
+  "main.aux" 1600973825 9699 a9fa7020fadb8930bbead56daabb6097 "pdflatex"
   "main.tex" 1600944174 1772 eded7550eab1aa4cf094d5804a36fdeb ""
-  "main.toc" 1600955468 6163 49b8aeff5395651279587e9fd2e64e95 "pdflatex"
+  "main.toc" 1600973825 6163 eb67f506b90076e25c48b444cab88596 "pdflatex"
   (generated)
-  "main.aux"
   "main.toc"
+  "main.aux"
   "main.pdf"
   "main.log"

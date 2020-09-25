@@ -9,69 +9,69 @@
 \contentsline {section}{\numberline {2.1}Conversion polaire - cart\IeC {\'e}sienne}{9}%
 \contentsline {section}{\numberline {2.2}Conversion Cart\IeC {\'e}sienne - Polaire}{10}%
 \contentsline {section}{\numberline {2.3}Conversion exponentielle - cart\IeC {\'e}sienne}{11}%
-\contentsline {section}{\numberline {2.4}Nombre Complexes addition}{11}%
-\contentsline {section}{\numberline {2.5}Nombre Complexes soustraction}{11}%
-\contentsline {section}{\numberline {2.6}Nombre Complexes multiplication}{11}%
-\contentsline {section}{\numberline {2.7}Nombre Complexes division}{11}%
-\contentsline {chapter}{\numberline {3}Chaptire 3 : Logique}{12}%
-\contentsline {section}{\numberline {3.1}Logique propositionnelle}{12}%
-\contentsline {subsection}{\numberline {3.1.1}Proposition}{12}%
-\contentsline {subsection}{\numberline {3.1.2}L'implication}{12}%
-\contentsline {subsection}{\numberline {3.1.3}L'\IeC {\'e}quivalence}{12}%
-\contentsline {subsection}{\numberline {3.1.4}Vocabulaire}{13}%
-\contentsline {subsection}{\numberline {3.1.5}Tableau priorit\IeC {\'e}s logique}{13}%
-\contentsline {subsection}{\numberline {3.1.6}Tautologie}{13}%
-\contentsline {subsection}{\numberline {3.1.7}Changement de forme}{13}%
-\contentsline {section}{\numberline {3.2}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles}{15}%
-\contentsline {subsection}{\numberline {3.2.1}D\IeC {\'e}finition}{15}%
-\contentsline {subsection}{\numberline {3.2.2}Relation d'\IeC {\'e}galit\IeC {\'e}}{15}%
-\contentsline {subsection}{\numberline {3.2.3}Relation d'inclusion}{15}%
-\contentsline {subsection}{\numberline {3.2.4}Propri\IeC {\'e}t\IeC {\'e} de l'inclusion}{16}%
-\contentsline {subsection}{\numberline {3.2.5}Relation d'inclusion}{17}%
-\contentsline {subsection}{\numberline {3.2.6}Op\IeC {\'e}ration d'union ($\cup $)}{17}%
-\contentsline {subsection}{\numberline {3.2.7}Op\IeC {\'e}ration d'intersection ($\cap $)}{17}%
-\contentsline {subsection}{\numberline {3.2.8}L'ensemble vide}{17}%
-\contentsline {subsection}{\numberline {3.2.9}La cardinalit\IeC {\'e}}{18}%
-\contentsline {subsection}{\numberline {3.2.10}Identit\IeC {\'e}}{18}%
-\contentsline {subsection}{\numberline {3.2.11}Commutativit\IeC {\'e}}{18}%
-\contentsline {subsection}{\numberline {3.2.12}Associativit\IeC {\'e}}{18}%
-\contentsline {subsection}{\numberline {3.2.13}Distributivit\IeC {\'e}}{18}%
-\contentsline {subsection}{\numberline {3.2.14}De Morgans}{19}%
-\contentsline {section}{\numberline {3.3}Exercice Matrices}{21}%
-\contentsline {subsection}{\numberline {3.3.1}Enonc\IeC {\'e}s des exercices}{21}%
-\contentsline {subsection}{\numberline {3.3.2}R\IeC {\'e}solution des exercices}{22}%
-\contentsline {section}{\numberline {3.4}Nombres Complexes Exercices}{30}%
-\contentsline {subsection}{\numberline {3.4.1}Exercices : Enonc\IeC {\'e}s}{30}%
-\contentsline {subsection}{\numberline {3.4.2}R\IeC {\'e}soudre les \IeC {\'e}quations suivantes:}{32}%
-\contentsline {subsection}{\numberline {3.4.3}Trouver le conjugu\IeC {\'e}s:}{35}%
-\contentsline {subsection}{\numberline {3.4.4}Identifier $\mathbb {R}$$ $ $\mathbb {I}$}{35}%
-\contentsline {subsection}{\numberline {3.4.5}Exprimer sous forme a+bi}{35}%
-\contentsline {subsection}{\numberline {3.4.6}Exprimer sous forme polaire}{38}%
-\contentsline {subsection}{\numberline {3.4.7}Exprimer sous forme cart\IeC {\'e}sienne}{39}%
-\contentsline {subsection}{\numberline {3.4.8}Trouver la solution}{41}%
-\contentsline {subsection}{\numberline {3.4.9}D\IeC {\'e}terminer le module et l'argument}{42}%
-\contentsline {section}{\numberline {3.5}Logique propositionnelle exercices}{43}%
-\contentsline {subsection}{\numberline {3.5.1}Enonc\IeC {\'e} Exercices}{43}%
-\contentsline {subsection}{\numberline {3.5.2}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{43}%
-\contentsline {subsection}{\numberline {3.5.3}Construire la table de v\IeC {\'e}rit\IeC {\'e}}{43}%
-\contentsline {section}{\numberline {3.6}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles Exercices}{45}%
-\contentsline {subsection}{\numberline {3.6.1}Enonc\IeC {\'e} d'exercices}{45}%
-\contentsline {subsection}{\numberline {3.6.2}R\IeC {\'e}solution}{45}%
-\contentsline {section}{\numberline {3.7}Nombre Entiers Exercices}{49}%
-\contentsline {subsection}{\numberline {3.7.1}Exemple Modulo}{49}%
-\contentsline {section}{\numberline {3.8}Relation Binaire Exercices}{50}%
-\contentsline {subsection}{\numberline {3.8.1}Exercices Examen}{50}%
-\contentsline {chapter}{\numberline {4}Formules}{53}%
-\contentsline {section}{\numberline {4.1}Tableau Trigonom\IeC {\'e}trique}{53}%
-\contentsline {section}{\numberline {4.2}NB Complex : Forme Polaire vers Cart\IeC {\'e}sienne}{54}%
-\contentsline {section}{\numberline {4.3}Addition de nombres complex (cart\IeC {\'e}sien)}{54}%
-\contentsline {section}{\numberline {4.4}Soustraction de nombres complex (cart\IeC {\'e}sien)}{54}%
-\contentsline {section}{\numberline {4.5}Multilication de nombres complex (cart\IeC {\'e}sien)}{54}%
-\contentsline {section}{\numberline {4.6}Division de nombres complex (cart\IeC {\'e}sien)}{54}%
-\contentsline {section}{\numberline {4.7}NB Complex : Forme cart\IeC {\'e}sienne vers polaire}{55}%
-\contentsline {section}{\numberline {4.8}Addition de nombres complex (Polaire)}{55}%
-\contentsline {section}{\numberline {4.9}Soustraction de nombres complex (Polaire)}{55}%
-\contentsline {section}{\numberline {4.10}Multilication de nombres complex (Polaire)}{55}%
-\contentsline {section}{\numberline {4.11}Division de nombres complex (Polaire)}{55}%
-\contentsline {section}{\numberline {4.12}Logique propositionnelle}{56}%
-\contentsline {section}{\numberline {4.13}Algorithmique symbole}{56}%
+\contentsline {section}{\numberline {2.4}Nombre Complexes addition}{12}%
+\contentsline {section}{\numberline {2.5}Nombre Complexes soustraction}{13}%
+\contentsline {section}{\numberline {2.6}Nombre Complexes multiplication}{14}%
+\contentsline {section}{\numberline {2.7}Nombre Complexes division}{15}%
+\contentsline {chapter}{\numberline {3}Chaptire 3 : Logique}{16}%
+\contentsline {section}{\numberline {3.1}Logique propositionnelle}{16}%
+\contentsline {subsection}{\numberline {3.1.1}Proposition}{16}%
+\contentsline {subsection}{\numberline {3.1.2}L'implication}{16}%
+\contentsline {subsection}{\numberline {3.1.3}L'\IeC {\'e}quivalence}{16}%
+\contentsline {subsection}{\numberline {3.1.4}Vocabulaire}{17}%
+\contentsline {subsection}{\numberline {3.1.5}Tableau priorit\IeC {\'e}s logique}{17}%
+\contentsline {subsection}{\numberline {3.1.6}Tautologie}{17}%
+\contentsline {subsection}{\numberline {3.1.7}Changement de forme}{17}%
+\contentsline {section}{\numberline {3.2}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles}{19}%
+\contentsline {subsection}{\numberline {3.2.1}D\IeC {\'e}finition}{19}%
+\contentsline {subsection}{\numberline {3.2.2}Relation d'\IeC {\'e}galit\IeC {\'e}}{19}%
+\contentsline {subsection}{\numberline {3.2.3}Relation d'inclusion}{19}%
+\contentsline {subsection}{\numberline {3.2.4}Propri\IeC {\'e}t\IeC {\'e} de l'inclusion}{20}%
+\contentsline {subsection}{\numberline {3.2.5}Relation d'inclusion}{21}%
+\contentsline {subsection}{\numberline {3.2.6}Op\IeC {\'e}ration d'union ($\cup $)}{21}%
+\contentsline {subsection}{\numberline {3.2.7}Op\IeC {\'e}ration d'intersection ($\cap $)}{21}%
+\contentsline {subsection}{\numberline {3.2.8}L'ensemble vide}{21}%
+\contentsline {subsection}{\numberline {3.2.9}La cardinalit\IeC {\'e}}{22}%
+\contentsline {subsection}{\numberline {3.2.10}Identit\IeC {\'e}}{22}%
+\contentsline {subsection}{\numberline {3.2.11}Commutativit\IeC {\'e}}{22}%
+\contentsline {subsection}{\numberline {3.2.12}Associativit\IeC {\'e}}{22}%
+\contentsline {subsection}{\numberline {3.2.13}Distributivit\IeC {\'e}}{22}%
+\contentsline {subsection}{\numberline {3.2.14}De Morgans}{23}%
+\contentsline {section}{\numberline {3.3}Exercice Matrices}{25}%
+\contentsline {subsection}{\numberline {3.3.1}Enonc\IeC {\'e}s des exercices}{25}%
+\contentsline {subsection}{\numberline {3.3.2}R\IeC {\'e}solution des exercices}{26}%
+\contentsline {section}{\numberline {3.4}Nombres Complexes Exercices}{34}%
+\contentsline {subsection}{\numberline {3.4.1}Exercices : Enonc\IeC {\'e}s}{34}%
+\contentsline {subsection}{\numberline {3.4.2}R\IeC {\'e}soudre les \IeC {\'e}quations suivantes:}{36}%
+\contentsline {subsection}{\numberline {3.4.3}Trouver le conjugu\IeC {\'e}s:}{39}%
+\contentsline {subsection}{\numberline {3.4.4}Identifier $\mathbb {R}$$ $ $\mathbb {I}$}{39}%
+\contentsline {subsection}{\numberline {3.4.5}Exprimer sous forme a+bi}{39}%
+\contentsline {subsection}{\numberline {3.4.6}Exprimer sous forme polaire}{42}%
+\contentsline {subsection}{\numberline {3.4.7}Exprimer sous forme cart\IeC {\'e}sienne}{43}%
+\contentsline {subsection}{\numberline {3.4.8}Trouver la solution}{45}%
+\contentsline {subsection}{\numberline {3.4.9}D\IeC {\'e}terminer le module et l'argument}{46}%
+\contentsline {section}{\numberline {3.5}Logique propositionnelle exercices}{47}%
+\contentsline {subsection}{\numberline {3.5.1}Enonc\IeC {\'e} Exercices}{47}%
+\contentsline {subsection}{\numberline {3.5.2}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{47}%
+\contentsline {subsection}{\numberline {3.5.3}Construire la table de v\IeC {\'e}rit\IeC {\'e}}{47}%
+\contentsline {section}{\numberline {3.6}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles Exercices}{49}%
+\contentsline {subsection}{\numberline {3.6.1}Enonc\IeC {\'e} d'exercices}{49}%
+\contentsline {subsection}{\numberline {3.6.2}R\IeC {\'e}solution}{49}%
+\contentsline {section}{\numberline {3.7}Nombre Entiers Exercices}{53}%
+\contentsline {subsection}{\numberline {3.7.1}Exemple Modulo}{53}%
+\contentsline {section}{\numberline {3.8}Relation Binaire Exercices}{54}%
+\contentsline {subsection}{\numberline {3.8.1}Exercices Examen}{54}%
+\contentsline {chapter}{\numberline {4}Formules}{57}%
+\contentsline {section}{\numberline {4.1}Tableau Trigonom\IeC {\'e}trique}{57}%
+\contentsline {section}{\numberline {4.2}NB Complex : Forme Polaire vers Cart\IeC {\'e}sienne}{58}%
+\contentsline {section}{\numberline {4.3}Addition de nombres complex (cart\IeC {\'e}sien)}{58}%
+\contentsline {section}{\numberline {4.4}Soustraction de nombres complex (cart\IeC {\'e}sien)}{58}%
+\contentsline {section}{\numberline {4.5}Multilication de nombres complex (cart\IeC {\'e}sien)}{58}%
+\contentsline {section}{\numberline {4.6}Division de nombres complex (cart\IeC {\'e}sien)}{58}%
+\contentsline {section}{\numberline {4.7}NB Complex : Forme cart\IeC {\'e}sienne vers polaire}{59}%
+\contentsline {section}{\numberline {4.8}Addition de nombres complex (Polaire)}{59}%
+\contentsline {section}{\numberline {4.9}Soustraction de nombres complex (Polaire)}{59}%
+\contentsline {section}{\numberline {4.10}Multilication de nombres complex (Polaire)}{59}%
+\contentsline {section}{\numberline {4.11}Division de nombres complex (Polaire)}{59}%
+\contentsline {section}{\numberline {4.12}Logique propositionnelle}{60}%
+\contentsline {section}{\numberline {4.13}Algorithmique symbole}{60}%
