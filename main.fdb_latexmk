@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1600973822 "main.tex" "main.pdf" "main" 1600973825
+["pdflatex"] 1601323226 "main.tex" "main.pdf" "main" 1601323228
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1591545468 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1591545468 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -202,10 +202,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1600689572 2514051 5e70d957abdeb95327849b3782a0f776 ""
   "Chapitre/Exercices.tex" 1600953891 327 4851c03e34f03d9ad9047983166ff31e ""
   "Chapitre/Theorie.tex" 1600953858 261 cd17caf29bbd376b3d1ff04f450f086a ""
-  "Chapitre1/MatrixExo.tex" 1600950421 16490 bf7c286eb2c9571714ecb6228c3e5fff ""
+  "Chapitre1/MatrixExo.tex" 1601292348 16589 41f260ed32e43f1e7d54087d3dac16b3 ""
   "Chapitre1/MatrixTheorie.tex" 1600943766 7225 1d99475cbaaf55a5ff474889a46e2466 ""
-  "Chapitre2/NombreComplexExos.tex" 1600955466 11645 26e23f66fbc41f8fee8741e6ecbf055d ""
-  "Chapitre2/NombreComplexTheorie.tex" 1600973820 3020 15f796f592eb679c260cdc56f770fda0 ""
+  "Chapitre2/NombreComplexExos.tex" 1601322588 11813 7f43c1a4fdedf237f6d0b08f4e3f032d ""
+  "Chapitre2/NombreComplexTheorie.tex" 1601323226 6811 9f0e3ceccc72cccffe216e40f98a18c8 ""
   "Chapitre3/LogiqueExos.tex" 1598285536 1179 e16c82402fd01d674106321d699ee330 ""
   "Chapitre3/LogiqueTheo.tex" 1600945304 2861 0030190858f0e4fd77926b11cb507c39 ""
   "Chapitre4/EnsemblesExos.tex" 1598364078 3441 a859d22d2de9d12fe5ad578d7b0de517 ""
@@ -221,11 +221,11 @@
   "images/cart-tg.jpg" 1597832238 187110 3cdf39121a4a7a357696ff4f095c6bc0 ""
   "images/circle_angles.png" 1597246651 177965 11d624b99b19cffb7fac3b9bad190453 ""
   "images/math-theo.jpg" 1597758000 23577 18aa1a1ca276fd75ddd5269a4d0fc98e ""
-  "main.aux" 1600973825 9699 a9fa7020fadb8930bbead56daabb6097 "pdflatex"
+  "main.aux" 1601323228 9852 7df773bfa4b2d3780545c3eb2cf0931a "pdflatex"
   "main.tex" 1600944174 1772 eded7550eab1aa4cf094d5804a36fdeb ""
-  "main.toc" 1600973825 6163 eb67f506b90076e25c48b444cab88596 "pdflatex"
+  "main.toc" 1601323228 6275 db4b14779f8fbd7b1573888f46a1b6fd "pdflatex"
   (generated)
-  "main.toc"
-  "main.aux"
   "main.pdf"
   "main.log"
+  "main.toc"
+  "main.aux"
