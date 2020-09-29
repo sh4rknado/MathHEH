@@ -1,9 +1,9 @@
 \newpage
 
-\chapter{Chaptire 3 : Logique propositionnelle}
+\chapter{Logique propositionnelle}
 \vspace{5mm} %5mm vertical space
 
-Règles pour déterminer si c'est vrai ou faux: \\
+\textbf{Règles pour déterminer si c'est vrai ou faux} \\
 
 1) Principe d'identité : A=A \\
 
@@ -15,13 +15,12 @@ Règles pour déterminer si c'est vrai ou faux: \\
 \section{Proposition}
 \vspace{5mm} %5mm vertical space
 
-C'est un énoncé, une phrase simple : \\
-ex: Ceci est une vidéos $=>$ Vrai ou Faux \\
+En logique propositionnelle les propositions, énoncés, phrases, ne peuvent qu'être vrai ou fausse \\
 
-En logique propositionnelle les propositions ne peuvent qu'être vrai ou fausse \\
+\textbf{Exemple}\\
 
-exemple de proposition : \\
 2+2 $=>$ Vrai ou Faux \\
+
 Le mur est blanc $=>$ Vrai ou Faux \\
 
 \section{L'implication}
@@ -29,34 +28,45 @@ Le mur est blanc $=>$ Vrai ou Faux \\
 
 Si j'ai une proposition A alors B \\
 
-Exemple: \\
-Une paire de chaussure $=>$ j'ai 2 chaussures \\
-Une paire de chaussure implique que j'ai 2 chaussures \\
-A$=>$B : Faux (une paire nécessite d'avoir 2 même chaussures, 2 chaussures peuvent être différentes)\\
-Si A est vrai alors B est vrai \\
-si B est vrai alors A n'est pas forcément vrai \\
+\textbf{Exemple} \\
 
+Une paire de chaussure ( implique que "$=>$" ) j'ai 2 chaussures \\
+
+une paire nécessite d'avoir 2 même chaussures, 2 chaussures peuvent être différentes \\
+
+A$=>$B : Faux \\
+
+Si A est vrai alors B est vrai \\
+
+Si B est vrai alors A n'est pas forcément vrai \\
+
+\newpage
 \section{L'équivalence}
 \vspace{5mm} %5mm vertical space
 
 Il faut que je n'ai pas une paires de chaussures. \\
+
 A=B : vrai \\
+
 Si A est vrai alors B est vrai \\
+
 si B est vrai alors A est vrai \\
 
 \section{Vocabulaire}
 \vspace{5mm} %5mm vertical space
 
 Proposition Atomique : Vrai et Faux à la fois \\
+
 Tautologie : toujours vrai \\
+
 prédicats :  Pour tout il existe \\
 
-
+\vspace{5mm}
 
 \section{Tableau priorités logique}
 \begin{tabular}{|l|c|c|c|c|}
   \hline
-  Opérateur & Logic & priorités & Associativités .\\
+  Opérateur & Logique & priorités & Associativités \\
   \hline
   $<=>$ & Equalité & 1 & gauche \\
   $=>$ & Implications & 2 & droite \\
@@ -66,6 +76,7 @@ prédicats :  Pour tout il existe \\
   \hline
 \end{tabular}
 
+\vspace{6mm}
 
 \section{Tautologie}
 \begin{tabular}{|l|c|c|c|}
@@ -77,24 +88,25 @@ prédicats :  Pour tout il existe \\
   \hline
 \end{tabular}
 
+\newpage
 \section{Changement de forme}
 \vspace{5mm} %5mm vertical space
-Commutativité: \\
+\textbf{Commutativité} \\
 pvq = qvp \\
 p∧q = q∧p \\
 
 \vspace{5mm} %5mm vertical space
-Associativités: \\
+\textbf{Associativités} \\
 (pvq)vr = pv(qvr) \\
 (p∧q)∧r = p∧(q∧r) \\
 
 \vspace{5mm} %5mm vertical space
-Distributivités: \\
+\textbf{Distributivités} \\
 pv(q∧r) = (pvq)∧(pvr) \\
 pv(qvr) = (p∧q)v(p∧r) \\
 
 \vspace{5mm} %5mm vertical space
-De Morgans: \\
+\textbf{De Morgans} \\
 a v b= ¬a * ¬b\\
 a*b= ¬a + ¬b\\
 (p∧q) = ¬p v ¬q  \\
@@ -103,17 +115,17 @@ a*b= ¬a + ¬b\\
 (A ∧¬ B) V (¬ A V (C ∧ A)) =  ¬(A ∧¬ B) ∧ ¬(¬ A V (C ∧ A))\\
 
 \vspace{5mm} %5mm vertical space
-Forme disjonctive: \\
+\textbf{Forme disjonctive} \\
 (A ∧ B) V C\\
 (A ET B) OU C \\
 
 \vspace{5mm} %5mm vertical space
-Forme conjonctive : \\
+\textbf{Forme conjonctive} \\
 (A V B) ∧ C\\
 (A OU B) ET C \\
 
 \vspace{5mm} %5mm vertical space
-Transformation: \\
+\textbf{Transformation} \\
 A$=>$B = ¬A v (A∧B) \\
 A$<=>$B: = (A$=>$B)∧(B$=>$A)  \\
 (A$=>$B)∧(B$=>$A) = (¬A v (A∧B)) ∧ (¬B v (B∧A))
