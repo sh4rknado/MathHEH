@@ -49,7 +49,7 @@
 \contentsline {section}{\numberline {6.7}Exprimer sous forme cart\IeC {\'e}sienne}{42}%
 \contentsline {section}{\numberline {6.8}Trouver la solution}{44}%
 \contentsline {section}{\numberline {6.9}changement de forme (exp)}{46}%
-\contentsline {section}{\numberline {6.10}Recherche valeures (exp)}{47}%
+\contentsline {section}{\numberline {6.10}Recherche valeures (exponentielle)}{47}%
 \contentsline {chapter}{\numberline {7}Logique propositionnelle exercices}{48}%
 \contentsline {section}{\numberline {7.1}Enonc\IeC {\'e} Exercices}{48}%
 \contentsline {section}{\numberline {7.2}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{48}%
