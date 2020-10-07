@@ -334,6 +334,8 @@ INPUT ./images/EnsemblesInt.png
 INPUT ./images/EnsemblesVide.png
 INPUT ./images/EnsemblesVide.png
 INPUT ./images/EnsemblesVide.png
+INPUT Chapitre6/NombreEntierTheo.tex
+INPUT Chapitre6/NombreEntierTheo.tex
 INPUT Chapitre/Exercices.tex
 INPUT Chapitre/Exercices.tex
 INPUT ./images/math-theo.jpg
@@ -353,6 +355,12 @@ INPUT Chapitre6/NombreEntierExos.tex
 INPUT Chapitre6/NombreEntierExos.tex
 INPUT Chapitre8/RelationBinaireExos.tex
 INPUT Chapitre8/RelationBinaireExos.tex
+INPUT Examen/Examen.tex
+INPUT Examen/Examen.tex
+INPUT /usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT Examen/Formules.tex
 INPUT Examen/Formules.tex
 INPUT ./images/circle_angles.png
