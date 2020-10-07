@@ -63,9 +63,10 @@
 \contentsline {subsection}{\numberline {8.4.1}Enonc\IeC {\'e} d'exercices}{53}%
 \contentsline {subsection}{\numberline {8.4.2}R\IeC {\'e}solution}{53}%
 \contentsline {chapter}{\numberline {9}Nombre Entiers Exercices}{57}%
-\contentsline {section}{\numberline {9.1}Exemple Modulo}{57}%
-\contentsline {section}{\numberline {9.2}Relation Binaire Exercices}{58}%
-\contentsline {subsection}{\numberline {9.2.1}Exercices Examen}{58}%
+\contentsline {section}{\numberline {9.1}Enonc\IeC {\'e}s}{57}%
+\contentsline {section}{\numberline {9.2}Exemple Modulo}{57}%
+\contentsline {section}{\numberline {9.3}Relation Binaire Exercices}{58}%
+\contentsline {subsection}{\numberline {9.3.1}Exercices Examen}{58}%
 \contentsline {chapter}{\numberline {10}Exemple d'examen}{61}%
 \contentsline {section}{\numberline {10.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{61}%
 \contentsline {section}{\numberline {10.2}Q2 : Calcul nombre complex}{63}%
