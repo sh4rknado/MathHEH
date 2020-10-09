@@ -59,10 +59,9 @@ Proposition Atomique : Vrai et Faux à la fois \\
 
 Tautologie : toujours vrai \\
 
-prédicats :  Pour tout il existe \\
+prédicats :  Pour tout il existe
 
-\vspace{5mm}
-
+\vspace{4mm}
 \section{Tableau priorités logique}
 \begin{tabular}{|l|c|c|c|c|}
   \hline
@@ -76,15 +75,30 @@ prédicats :  Pour tout il existe \\
   \hline
 \end{tabular}
 
-\vspace{6mm}
-
-\section{Tautologie}
+\vspace{4mm}
+\section{Implication}
 \begin{tabular}{|l|c|c|c|}
   \hline
-  P & ¬ P & P V ¬P \\
+  P & Q & P $=>$ Q \\
   \hline
-  T & T & ⊥ \\
+  T & T & T \\
+  T & ⊥ & ⊥ \\
   ⊥ & T & T \\
+  ⊥ & ⊥ & T \\
+  \hline
+\end{tabular}
+
+\vspace{4mm}
+
+\section{Equivalence}
+\begin{tabular}{|l|c|c|c|}
+  \hline
+  P & Q & P $<=>$ Q \\
+  \hline
+  T & T & T \\
+  T & ⊥ & ⊥ \\
+  ⊥ & T & ⊥ \\
+  ⊥ & ⊥ & T \\
   \hline
 \end{tabular}
 
@@ -92,21 +106,25 @@ prédicats :  Pour tout il existe \\
 \section{Changement de forme}
 \vspace{5mm} %5mm vertical space
 \textbf{Commutativité} \\
+
 pvq = qvp \\
 p∧q = q∧p \\
 
 \vspace{5mm} %5mm vertical space
 \textbf{Associativités} \\
+
 (pvq)vr = pv(qvr) \\
 (p∧q)∧r = p∧(q∧r) \\
 
 \vspace{5mm} %5mm vertical space
 \textbf{Distributivités} \\
+
 pv(q∧r) = (pvq)∧(pvr) \\
 pv(qvr) = (p∧q)v(p∧r) \\
 
 \vspace{5mm} %5mm vertical space
 \textbf{De Morgans} \\
+
 a v b= ¬a * ¬b\\
 a*b= ¬a + ¬b\\
 (p∧q) = ¬p v ¬q  \\
@@ -116,16 +134,19 @@ a*b= ¬a + ¬b\\
 
 \vspace{5mm} %5mm vertical space
 \textbf{Forme disjonctive} \\
+
 (A ∧ B) V C\\
 (A ET B) OU C \\
 
 \vspace{5mm} %5mm vertical space
 \textbf{Forme conjonctive} \\
+
 (A V B) ∧ C\\
 (A OU B) ET C \\
 
 \vspace{5mm} %5mm vertical space
 \textbf{Transformation} \\
+
 A$=>$B = ¬A v (A∧B) \\
 A$<=>$B: = (A$=>$B)∧(B$=>$A)  \\
 (A$=>$B)∧(B$=>$A) = (¬A v (A∧B)) ∧ (¬B v (B∧A))
