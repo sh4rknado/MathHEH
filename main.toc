@@ -58,37 +58,39 @@
 \contentsline {section}{\numberline {7.10}Recherche valeures (exponentielle)}{50}%
 \contentsline {chapter}{\numberline {8}Logique propositionnelle exercices}{51}%
 \contentsline {section}{\numberline {8.1}Enonc\IeC {\'e} Exercices}{51}%
-\contentsline {section}{\numberline {8.2}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{51}%
+\contentsline {section}{\numberline {8.2}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{52}%
 \contentsline {section}{\numberline {8.3}Construire la table de v\IeC {\'e}rit\IeC {\'e}}{52}%
-\contentsline {section}{\numberline {8.4}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles Exercices}{53}%
-\contentsline {subsection}{\numberline {8.4.1}Enonc\IeC {\'e} d'exercices}{53}%
-\contentsline {subsection}{\numberline {8.4.2}R\IeC {\'e}solution}{53}%
-\contentsline {chapter}{\numberline {9}Nombre Entiers Exercices}{56}%
-\contentsline {section}{\numberline {9.1}Exercices Modulo}{56}%
-\contentsline {section}{\numberline {9.2}Exercices PPCM-PGCD}{56}%
-\contentsline {section}{\numberline {9.3}Exercices changement de base}{57}%
-\contentsline {section}{\numberline {9.4}Relation Binaire Exercices}{58}%
-\contentsline {subsection}{\numberline {9.4.1}Exercices Examen}{58}%
-\contentsline {chapter}{\numberline {10}Exemple d'examen}{61}%
-\contentsline {section}{\numberline {10.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{61}%
-\contentsline {section}{\numberline {10.2}Q2 : Calcul nombre complex}{63}%
-\contentsline {section}{\numberline {10.3}Q3 : Transformer en forme conjonctive}{67}%
-\contentsline {section}{\numberline {10.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{67}%
-\contentsline {section}{\numberline {10.5}Q5 : Induction forte/faibles}{69}%
-\contentsline {section}{\numberline {10.6}Q6 : Nombre entiers}{70}%
-\contentsline {section}{\numberline {10.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{71}%
-\contentsline {section}{\numberline {10.8}Q8 : Ensemble Naturels}{73}%
-\contentsline {chapter}{\numberline {11}Formules}{74}%
-\contentsline {section}{\numberline {11.1}Tableau Trigonom\IeC {\'e}trique}{74}%
-\contentsline {section}{\numberline {11.2}NB Complex : Forme Polaire vers Cart\IeC {\'e}sienne}{75}%
-\contentsline {section}{\numberline {11.3}Addition de nombres complex (cart\IeC {\'e}sien)}{75}%
-\contentsline {section}{\numberline {11.4}Soustraction de nombres complex (cart\IeC {\'e}sien)}{75}%
-\contentsline {section}{\numberline {11.5}Multilication de nombres complex (cart\IeC {\'e}sien)}{75}%
-\contentsline {section}{\numberline {11.6}Division de nombres complex (cart\IeC {\'e}sien)}{75}%
-\contentsline {section}{\numberline {11.7}NB Complex : Forme cart\IeC {\'e}sienne vers polaire}{76}%
-\contentsline {section}{\numberline {11.8}Addition de nombres complex (Polaire)}{76}%
-\contentsline {section}{\numberline {11.9}Soustraction de nombres complex (Polaire)}{76}%
-\contentsline {section}{\numberline {11.10}Multilication de nombres complex (Polaire)}{76}%
-\contentsline {section}{\numberline {11.11}Division de nombres complex (Polaire)}{76}%
-\contentsline {section}{\numberline {11.12}Logique propositionnelle}{77}%
-\contentsline {section}{\numberline {11.13}Algorithmique symbole}{77}%
+\contentsline {section}{\numberline {8.4}Prouver l'\IeC {\'e}quivalence}{52}%
+\contentsline {section}{\numberline {8.5}D\IeC {\'e}terminer la v\IeC {\'e}racit\IeC {\'e}}{53}%
+\contentsline {section}{\numberline {8.6}Th\IeC {\'e}orie na\IeC {\"\i }ve des ensembles Exercices}{55}%
+\contentsline {subsection}{\numberline {8.6.1}Enonc\IeC {\'e} d'exercices}{55}%
+\contentsline {subsection}{\numberline {8.6.2}R\IeC {\'e}solution}{55}%
+\contentsline {chapter}{\numberline {9}Nombre Entiers Exercices}{58}%
+\contentsline {section}{\numberline {9.1}Exercices Modulo}{58}%
+\contentsline {section}{\numberline {9.2}Exercices PPCM-PGCD}{58}%
+\contentsline {section}{\numberline {9.3}Exercices changement de base}{59}%
+\contentsline {section}{\numberline {9.4}Relation Binaire Exercices}{60}%
+\contentsline {subsection}{\numberline {9.4.1}Exercices Examen}{60}%
+\contentsline {chapter}{\numberline {10}Exemple d'examen}{63}%
+\contentsline {section}{\numberline {10.1}Q1 : Calcul du d\IeC {\'e}terminant de la matrice}{63}%
+\contentsline {section}{\numberline {10.2}Q2 : Calcul nombre complex}{65}%
+\contentsline {section}{\numberline {10.3}Q3 : Transformer en forme conjonctive}{69}%
+\contentsline {section}{\numberline {10.4}Q4 : Th\IeC {\'e}orie des ensembles na\IeC {\"\i }fs}{69}%
+\contentsline {section}{\numberline {10.5}Q5 : Induction forte/faibles}{71}%
+\contentsline {section}{\numberline {10.6}Q6 : Nombre entiers}{72}%
+\contentsline {section}{\numberline {10.7}Q7 : D\IeC {\'e}terminer les complexit\IeC {\'e}s de l\IeC {\textquoteright }algorithme suivant avec n la taille du tableau}{73}%
+\contentsline {section}{\numberline {10.8}Q8 : Ensemble Naturels}{75}%
+\contentsline {chapter}{\numberline {11}Formules}{76}%
+\contentsline {section}{\numberline {11.1}Tableau Trigonom\IeC {\'e}trique}{76}%
+\contentsline {section}{\numberline {11.2}NB Complex : Forme Polaire vers Cart\IeC {\'e}sienne}{77}%
+\contentsline {section}{\numberline {11.3}Addition de nombres complex (cart\IeC {\'e}sien)}{77}%
+\contentsline {section}{\numberline {11.4}Soustraction de nombres complex (cart\IeC {\'e}sien)}{77}%
+\contentsline {section}{\numberline {11.5}Multilication de nombres complex (cart\IeC {\'e}sien)}{77}%
+\contentsline {section}{\numberline {11.6}Division de nombres complex (cart\IeC {\'e}sien)}{77}%
+\contentsline {section}{\numberline {11.7}NB Complex : Forme cart\IeC {\'e}sienne vers polaire}{78}%
+\contentsline {section}{\numberline {11.8}Addition de nombres complex (Polaire)}{78}%
+\contentsline {section}{\numberline {11.9}Soustraction de nombres complex (Polaire)}{78}%
+\contentsline {section}{\numberline {11.10}Multilication de nombres complex (Polaire)}{78}%
+\contentsline {section}{\numberline {11.11}Division de nombres complex (Polaire)}{78}%
+\contentsline {section}{\numberline {11.12}Logique propositionnelle}{79}%
+\contentsline {section}{\numberline {11.13}Algorithmique symbole}{79}%

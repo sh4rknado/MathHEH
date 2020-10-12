@@ -5,58 +5,248 @@
 
 \section{Enoncé Exercices}
 
+P1=(1+1=2) $ $ P2=(1$>$5) $ $ P3=(1+1=3) \\
+
+
 \textbf{1) Déterminer la véracité} \\
 
-P1 = 1+1=2  \\
-P2 = 1$>$5 \\
-P3 = 1+1=3 \\
-
-\begin{itemize}
-\item {a. $P_1$ v $P_3$}
-\item {b. $P_2 => P_1$}
-\item {c. $P_3 => (p_1$ v $P_3)$}
-\end{itemize}
+a. $P_1$ v $P_3$ \\
+b. $P_2 => P_1$ \\
+c. $P_3 => (P_1$ v $P_3)$ \\
 
 \vspace{3mm}
-\textbf{2) Construire la Table de vérité de $p_1 <=> P_2 => P_3$} \\
+\textbf{2) Construire la Table de vérité de $P_1 <=> P_2 => P_3$} \\
 
-\vspace{5mm} %5mm vertical space
+\vspace{3mm}
+\textbf{3) Prouver l'équivalence} \\
+
+a. P V P $<=>$ P \\
+b. P ∧ P  $<=>$ P \\
+c. P V (q ∧ r) $<=>$ (p v r) ∧ (q v r) \\
+
+\vspace{3mm}
+\textbf{4) Déterminer la véracité} \\
+
+Soit A = \{1, 2, 3, 4, 5\} le domaine des prédicats (liste exhaustive des prédicats). Vérifiez la véracité de \\
+
+a) $∃x$, $(x + 3 = 5)$ \\
+b) $∃x$, $(x + 1 = 15)$ \\
+c) $∀x$, $(x < 4)$ \\
+d) $∀x$, $(x + 10 < 25)$ \\
+e) $∀x$, $((x > 6) => (x < 2))$ \\
+f) $∃x$, $((x^{2} = 121) ∧ (x > 0))$ \\
+
+Soient x i ∈ A, P($x_{i}, x_{j}$) (toutes valeurs possibles), vérifiez les tautologies
+
+\newpage
 \section{Déterminer la véracité}
 
-a. $P_1$ v $P_3$ = T \\
-1 OU 1 = 1\\
+\begin{tabular}{|l|c|c|c|c|c|c|c|}
+  \hline
+  $P_1$ & $P_2$ & $P_3$ & $P_1$ v $P_3$ & $P_2 => P_1$ & ($P_1$ v $P_3$) & $P_3 => (P_1$ v $P_3)$ \\
+  \hline
+  T & ⊥ & ⊥ & T & T & T & T \\
+  \hline
+\end{tabular}
 
-b. $P_2 => P_1$ \\
-¬ $P_2$ v ($P_2$ ∧ $P_1$) \\
-¬ 0 v (0 ∧ 1) \\
-1 v (0) \\
-1 OU 0 = 1\\
-S = $P_2 => P_1$ = T \\
-
-c. $P_3 => (p_1 v p_3)$ \\
-¬ $P_3$ v ($p_3$ ∧ ($p_1$ v $p_3$)) \\
-$p_3$=0 \\
-$p_1$ =1 ou insertion \\
-¬ 0 v (0 ∧ (1 v 0)) \\
-1 v (1 ∧ 0) \\
-1 v 0 = T \\
-1 OU 0 = 1 \\
-S= $P_3 => (p_1 v p_3)$ = T\\
 
 \section{Construire la table de vérité}
 \vspace{5mm} %5mm vertical space
-$p_1 <=> P_2 => P_3$ \\
 
-$P_2 => P_3$ \\
-¬ $P_2$ v ($p_2$ ∧ $p_3$) \\
-¬ 0 v (0 ∧ 0) \\
-1 v 0 = T \\
-1 OU 0 = 1 \\
+$P_1 <=> P_2 => P_3$ \\
+
+\begin{tabular}{|l|c|c|c|c|c|}
+  \hline
+  $P_1$ & $P_2$ & $P_3$ & $P_2 => P_3$ & $P_1 <=> (P_2 => P_3)$ \\
+  \hline
+  0 & 0 & 1 & 1 & 0 \\
+  \hline
+  0 & 1 & 0 & 0 & 1 \\
+  \hline
+  0 & 1 & 1 & 1 & 0 \\
+  \hline
+  1 & 0 & 0 & 1 & 1 \\
+  \hline
+  1 & 0 & 1 & 1 & 1 \\
+  \hline
+  1 & 1 & 0 & 0 & 0 \\
+  \hline
+  1 & 1 & 1 & 1 & 1 \\
+  \hline
+\end{tabular}
+
+\section{Prouver l'équivalence}
+
+\vspace{3mm} %5mm vertical space
+a. P V P $<=>$ P \\
 
 \begin{tabular}{|l|c|c|c|c|}
   \hline
-  $P_1$ & $P_2$ & $P_3$ & $P_2 => P_3$ \\
+  P & P V P & P $<=>$ P V P \\
   \hline
-  T & ⊥ & ⊥ & T \\
+  0 & 0 & 0 \\
+  \hline
+  1 & 1 & 1 \\
   \hline
 \end{tabular}
+
+\vspace{3mm}
+b. P ∧ P  $<=>$ P \\
+
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  P & P ∧ P & P $<=>$ P ∧ P \\
+  \hline
+  0 & 0 & 0 \\
+  \hline
+  1 & 1 & 1 \\
+  \hline
+\end{tabular}
+
+\vspace{5mm}
+c. P v (q ∧ r) $<=>$ (p v r) ∧ (q v r) \\
+
+utilisation de la distributivités \\
+
+P v (q ∧ r) $<=>$ (p v r) ∧ (q v r) \\
+
+(p v r) ∧ (q v r) $<=>$ (p v r) ∧ (q v r) \\
+
+\newpage
+
+\section{Déterminer la véracité}
+
+a) $∃x$, $(x + 3 = 5)$ \\
+
+x+3=5 \\
+x=5-3 \\
+x=2 \\
+
+x=2, il existe bien un x appartenant à A \\
+
+\vspace{5mm}
+
+b) $∃x$, $(x + 1 = 15)$ \\
+
+x+1=15 \\
+x=14 \\
+
+Il n'existe pas de x compris dans A, car 14 n'est pas compris dans A \\
+
+\vspace{5mm}
+
+c) $∀x$, $(x < 4)$ \\
+
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  $1 < 4$ & T \\
+  \hline
+  $2 < 4$ & T \\
+  \hline
+  $3 < 4$ & T \\
+  \hline
+  $4 < 4$ & ⊥ \\
+  \hline
+  $5 < 4$ & ⊥ \\
+  \hline
+\end{tabular}
+
+\vspace{4mm}
+
+x=4 ou x=5 n'est pas inférieure à 4, donc tout x n'est pas inférieure à 4 \\
+
+\vspace{5mm}
+
+d) $∀x$, $(x + 10 < 25)$ \\
+
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  $(1 + 10 < 25)$ & T \\
+  \hline
+  $(2 + 10 < 25)$ & T \\
+  \hline
+  $(3 + 10 < 25)$ & T \\
+  \hline
+  $(4 + 10 < 25)$ & T \\
+  \hline
+  $(5 + 10 < 25)$ & T \\
+  \hline
+\end{tabular}
+
+\vspace{4mm}
+
+x+10 = 25 \\
+x = 15 \\
+
+Tout x appartenant à A, ou x+10 est toujours inférieure a 25. \\
+
+De plus X $>=$ 15 n'appartient pas à A. \\
+
+\newpage
+
+e) $∀x$, $((x > 6) => (x < 2))$ \\
+
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  x & $A=(x > 6)$ & $B=(x < 2)$ & $A => B$ \\
+  \hline
+  1 & ⊥ & ⊥ & T \\
+  \hline
+  2 & ⊥ & ⊥ & T \\
+  \hline
+  3 & ⊥ & ⊥ & T \\
+  \hline
+  4 & ⊥ & ⊥ & T \\
+  \hline
+  5 & ⊥ & ⊥ & T \\
+  \hline
+\end{tabular}
+
+\vspace{4mm}
+
+Quand quelques chose de chose de faux est impliqué, le résultat est toujours vrai. \\
+
+⊥ $=>$ T $<=>$ T \\
+⊥ $=>$ ⊥ $<=>$ T \\
+
+\begin{tabular}{|l|c|c|c|}
+  \hline
+  P & Q & P $=>$ Q \\
+  \hline
+  T & T & T \\
+  T & ⊥ & ⊥ \\
+  ⊥ & T & T \\
+  ⊥ & ⊥ & T \\
+  \hline
+\end{tabular}
+
+\vspace{10mm}
+
+f) $∃x$, $((x^{2} = 121) ∧ (x > 0))$ \\
+
+$x^{2}$ = 121 \\
+x = 11 \\
+
+x n'appartient pas a A, $x> ∀x$ appartenant à A \\
+
+$∀x$ appartenant à A $>$ 0 \\
+
+ ⊥ ∧ T = T \\
+
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  x & $A=(x^{2} = 121)$ & $B=(x > 0)$ & $A ∧ B$ \\
+  \hline
+  1 & ⊥ & T & T \\
+  \hline
+  2 & ⊥ & T & T \\
+  \hline
+  3 & ⊥ & T & T \\
+  \hline
+  4 & ⊥ & T & T \\
+  \hline
+  5 & ⊥ & T & T \\
+  \hline
+\end{tabular}
+
+\vspace{4mm}
