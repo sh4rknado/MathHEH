@@ -17,11 +17,13 @@ divisé par 21; 1434 divisé par 13 et 1025 divisé par 15.}
 
 \item {4.Calculez 7 mod 5; 789 mod 5672 ; 77 mod 11 ; 55 mod 7 ; 72 mod 13}
 
-\item{5. Soient a, b, n, m ∈ N tels que n ≥ 2, m ≥ 2etn|m. Prouvez que si a ≡ m b alors a ≡ n b.}
+\item{5. Soient a, b, n, m ∈ N tels que n ≥ 2, m ≥ 2 et n$|$m. \\
+ Prouvez que si a $≡_{m}$ b alors a $≡_{n}$ b.}
 
-\item {6. Soit n ∈ N. Prouvez que si n est impair alors n 2 ≡ 2 1.}
+\item {6. Soit n ∈ N. Prouvez que si n est impair alors $n^{2} ≡_{2} 1$.}
 
-\item {7. Soient a, b, c, d ∈ Z, m ∈ N, m > 0. Prouvez que si a ≡ m b et c ≡ m d alors (a + c) ≡ m (b + d) et (ac) ≡ m (bd).}
+\item {7. Soient a, b, c, d ∈ Z, m ∈ N, m $>$ 0. \\
+    Prouvez que si a $≡_{m}$ b et c $≡_{m}$ d alors (a + c) $≡_{m}$ (b + d) et (ac) $≡_{m}$ (bd).}
 
 \item {8. Déduire de l’exercice précédent que :\\
       (a + b) mod m = ((a mod m) + (b mod m)) mod m \\
@@ -75,3 +77,384 @@ divisé par 21; 1434 divisé par 13 et 1025 divisé par 15.}
 \item {6. Prouvez que 2 240 mod 11 = 1}
 
 \end{itemize}
+
+\newpage
+\textbf{1. Prouver que si a ∈ N, a $>$ 0, alors 1 divise a et a divise 0} \\
+
+Cela peut s'écrire simplement : soit a un naturel $>$ 0 $=>$ $\frac{1}{a}$ et $\frac{a}{0}$ \\
+
+\textbf{première partie} \\
+
+$\frac{1}{a}$ $<=>$  a = 1*x (par définition) \\
+
+$\frac{a}{0}$ $<=>$  0 = a*x (par définition) \\
+
+\textbf{deuxième partie} \\
+
+il faut donc lorsque a est posé, trouver un x et un y qui vérifie les expressions suivantes : \\
+
+Soit a $>$ 0, on sait que a un naturel, prenons x=a \\
+on a bien a = 1 x a, ce qui vérifie $\frac{1}{a}$ \\
+
+Soit a $>$ 0, on sait que a un naturel, prenons y=0 \\
+on a bien 0 = a*0, ce qui vérifie $\frac{a}{0}$
+
+\vspace{10mm}
+\textbf{2. Soient a, b ∈ Z, a$\ne$0, b$\ne$0, prouvez que si a$|$b et b$|$a alors a=b ou a=−b} \\
+
+soit a, b un entier positif ou négatif, si a$|$b et b$|$a $=>$ a=b ou a=−b \\
+
+\textbf{première partie} \\
+
+$\frac{a}{b}$ $<=>$  b = a*x (par définition) \\
+
+$\frac{b}{a}$ $<=>$  a = b*y (par définition) \\
+
+\textbf{deuxième partie} \\
+
+il faut donc lorsque a est posé, trouver un x et un y qui vérifie les expressions suivantes : \\
+
+Soit b $\ne$ 0, on sait que b un entier positif ou négatif, prenons x=1 \\
+
+b = a*1 \\
+
+b=a $<=>$ a=b \\
+ce qui vérifie l'expressions a=b \\
+
+Soit a $\ne$ 0, on sait que a un entier positif ou négatif, prenons y=-1 \\
+
+a = b*-1 \\
+a=-b \\
+ce qui vérifie l'expressions a=-b \\
+
+\newpage
+\vspace{10mm}
+\textbf{3. Déterminez le quotient et le reste de 111 divisé par 11; 123 par 7; 777 divisé par 21; 1434 divisé par 13 et 1025 divisé par 15.}
+
+\vspace{4mm}
+
+$\frac{111}{11}$  Q=10  R=1 \\
+
+$\frac{123}{16}$  Q=17  R=4 \\
+
+$\frac{777}{21}$  Q=37  R=0 \\
+
+$\frac{1437}{13}$ Q=110 R=7 \\
+
+$\frac{1025}{15}$ Q=68  R=5 \\
+
+\vspace{10mm}
+\textbf{4. Calculez 7 mod 5; 789 mod 5672; 77 mod 11; 55 mod 7; 72 mod 13}
+
+\vspace{4mm}
+
+7 mod 5 = 2 \\
+
+789 mod 5672 = 789 \\
+
+77 mod 11 = 0 \\
+
+55 mod 7 = 6 \\
+
+72 mod 13 = 7 \\
+
+\vspace{10mm}
+\textbf{5. Soient a, b, n, m ∈ N tels que n ≥ 2, m ≥ 2 et n $|$ m. Prouvez que si a $≡_{m}$ b alors a $≡_{n}$ b}
+
+\vspace{4mm}
+a = b + k*n (par définition) \\
+
+$\frac{a=k*n+b}{c= l*n + b}$ \\
+
+
+\vspace{10mm}
+\textbf{6. Soit n ∈ N. Prouvez que si n est impair alors $n^{2} ≡_{2} 1$}
+
+\vspace{4mm}
+impair = 2x + 1 (par définition) \\
+
+$n^{2}$ = (2x+1)² = $4x^{2}$ + 2*2x*1 + $1^{2}$ \\
+$4x^{2}$ + 4x + 1 \\
+
+$4x^{2}$ est pair \\
+4x est pair \\
+1 est impair \\
+
+PAIR + PAIR + IMPAIR = IMPAIR \\
+
+\vspace{6mm}
+\textbf{7. Soient a, b, c, d ∈ Z, m ∈ N, m $>$ 0. Prouvez que si} \\
+
+a $≡_{m}$ b et c $≡_{m}$ d alors (a + c) $≡_{m}$ (b + d) et (ac) $≡_{m}$ (bd) \\
+
+a = b + k*n (par définition) \\
+
+\textbf{première expression} \\
+
+(a + c) $≡_{m}$ (b + d) \\
+(a + c) = (m ∗ k + b) + (m ∗ l + d) \\
+m * lk + (b + d) \\
+(b + d) + m * lk  \\
+
+on peut dire que y = lk et x=(b+d), ce qui vérifie l'expression : a = x + m*y  \\
+
+
+\textbf{deuxième expression} \\
+
+(ac) $≡_{m}$ (bd) \\
+(ac) = (mk + b) ∗ (ml + d) \\
+(bd) + m ∗ (mkl + ld + bl)  \\
+
+on peut dire que y = (mkl + ld + bl) et x= b*d, ce qui vérifie l'expression : x + m∗y \\
+\newpage
+
+\textbf{8. Déduire de l’exercice précédent que} \\
+
+    (a + b) mod m = ((a mod m) + (b mod m)) mod m \\
+    (ab) mod m = ((a mod m)(b mod m)) mod m \\
+
+a $≡_{m}$ b $<=>$ a= b + m*k \\
+(a + b) mod m = ((a mod m) + (b mod m)) mod m \\
+
+\textbf{première partie} \\
+
+(a + b) mod m \\
+(2b) mod m \\
+
+\textbf{deuxième partie} \\
+
+((a mod m) + (b mod m)) mod m  \\
+((b + mk) mod m) (b mod m)) mod m \\
+
+(b + mk) mod m) = b \\
+(b + (b mod m)) mod m \\
+
+(b mod m) = b \\
+(b + b) mod m \\
+(2b) mod m \\
+
+\textbf{Conclusion La première partie == la deuxième partie $=>$ OK} \\
+
+(ab) mod m = ((a mod m)(b mod m)) mod m \\
+
+\textbf{première partie} \\
+
+(ab) mod m \\
+((mk + b) b) mod m \\
+(mkb + $b^{2}$) mod m \\
+$b^{2}$ mod m \\
+
+\textbf{deuxième partie} \\
+
+((a mod m)(b mod m)) mod m \\
+
+(a mod m) = b \\
+(b mod m) = b \\
+
+(b*b) mod m \\
+($b^{2}$) mod m \\
+
+\textbf{Conclusion La première partie == la deuxième partie $=>$ OK} \\
+
+
+\newpage
+\textbf{9. Prouvez que les deux égalités suivantes sont fausses}\\
+
+      (a + b) mod m = (a mod m) + (b mod m) \\
+      (ab) mod m = (a mod m)(b mod m) \\
+
+(a + b) mod m = (a mod m) + (b mod m) \\
+
+\textbf{première partie} \\
+
+(a+b) mod m \\
+(b+b) mod m \\
+(2b) mod m \\
+
+\textbf{deuxième partie} \\
+
+((a mod m) + (b mod m)) mod m  \\
+((b + mk) mod m) (b mod m)) mod m \\
+
+(b + mk) mod m) = b \\
+(b + (b mod m)) mod m \\
+
+(b mod m) = b \\
+(b + b) = 2b \\
+
+\textbf{Conclusion : la première parties est différentes de la deuxième (2b $\ne$ 2b mod m) } \\
+
+\vspace{4mm}
+
+(ab) mod m = (a mod m)(b mod m) \\
+
+\textbf{première partie} \\
+
+(ab) mod m \\
+((mk + b) b) mod m \\
+(mkb + $b^{2}$) mod m \\
+$b^{2}$ mod m \\
+
+\textbf{deuxième partie} \\
+
+((a mod m)(b mod m)) mod m \\
+
+(a mod m) = b \\
+(b mod m) = b \\
+
+(b*b) = $b^{2}$ \\
+
+\textbf{Conclusion : la première parties est différentes de la deuxième ($b^{2}$ mod m $\ne$ $b^{2}$) } \\
+
+\newpage
+\textbf{1. Soient m, n ∈ Z et p un nombre premier. Prouvez que si p$|$mn alors p$|$m ou p$|$n. Ce résultat est-il toujours vrai si p n’est pas premier ? }
+
+
+\textbf{2. Déterminez lesquels de ces nombres sont premiers : 21, 71, 111 et 143} \\
+
+a) 21 est divisible par 3,7,21 $=>$ NON \\
+b) 71 est divisible par 71,1 $=>$ OUI  \\
+c) 111 est divisible par 3,111,1 $=>$ NON  \\
+d) 143 est divisible par 143,11,1 $=>$ NON \\
+
+\textbf{3. Décomposez les nombres suivants en facteurs premiers : 88, 124, 289 et 402} \\
+
+a) 88 = 2*2*2*11 = 2$^{3}$ * 11 \\
+b) 124 = 2*2*31 = 2$^{2}$ * 31 \\
+c) 289 = 17$^{2}$ \\
+d) 402 = 2*3*67 \\
+
+\textbf{4. Calculez pgcd(15, 36), ppcm(21, 49), pgcd(121, 125) et ppcm(31, 81)} \\
+
+A) pgcd(15, 36)\\
+15=3*5 31=31 \\
+pgcd(15, 36) = 3 \\
+
+b) ppcm(21, 49) \\
+21=3*7  49=7$^{2}$ \\
+ppcm(21, 49) = 147 \\
+
+c) pgcd(121, 125) \\
+121 = 1*121  125 = 1*5*5*5 \\
+pgcd(121, 125) = 1 \\
+
+d) ppcm(31, 81) \\
+31=1*31 81=1*81 \\
+ppcm(31, 81) = 31*81 = 2511 \\
+
+
+\textbf{5. Prouvez que le produit de trois entiers consécutifs est toujours divisible par 6.} \\
+
+$\frac{n(n+1)(n+2)} {6}$ \\
+
+$\frac{6n^{3} + 18n^{2} + 12n}{6}$ \\
+
+$n^{3}$ + $3n^{2}$ + 2n \\
+
+il faut qu'il est la forme $6*n$ ou $2*3*n$ \\
+
+\textbf{Divisible par 2} \\
+
+Si n est pair alors $n^{3}$ est pair sinon il est impair. \\
+
+2n$^{2}$ est pair, ce qui donne un nombre pair \\
+
+
+\textbf{Divisible par 3} \\
+
+Montrer que $n^{3}$ + $3n^{2}$ + 2n est divisible par 3 : \\
+
+Soit $\frac{n}{3}$ Sinon il manque 1 ou 2 unités. \\
+
+Donc n+1 ou n+2 sera divisible par 3 d'où leur produit est divisible par 3.\\
+
+
+\textbf{6. Écrire en notation binaire les nombres suivants : 7, 9, 11, 31 et 65} \\
+
+7 = 2$^{2}$ + 2$^{1}$ + 2$^{0}$ = 0111 \\
+
+9 = 2$^{3}$ + 2$^{0}$ = 1001 \\
+
+11 = 2$^{6}$ + 2$^{0}$ = 1001 \\
+
+31 = 2$^{4}$ + 2$^{3}$ + 2$^{2}$ + 2$^{1}$ + 2$^{0}$ = 0001 1111 \\
+
+65 = 2$^{6}$ + 2$^{0}$ = 0010 0001 \\
+
+\textbf{7. Écrire en notation hexadécimale les nombres suivants : 13, 31 et 65} \\
+
+13 = 2$^{3}$ + 2$^{2}$ + 2$^{0}$ = 1101 = D \\
+
+31 = 2$^{4}$ + 2$^{3}$ + 2$^{2}$ + 2$^{1}$ + 2$^{0}$ = 0001 1111 = 1F \\
+
+65 = 2$^{6}$ + 2$^{0}$ = 0010 0001 = 41 \\
+
+\newpage
+
+\textbf{1. Convertir les entiers suivants de l’hexadécimal au décimal : A0B1 et F0A02} \\
+
+A0B1 = 10 0 11 1 \\
+
+F0A02 = 15 0 10 0 2 \\
+
+\textbf{2. Convertir les entiers suivants de l’hexadécimal au binaire : ABBA et FACE} \\
+
+ABBA = 1010 1011 1011 1010 \\
+
+FACE = 1111 1010 1100 1110 \\
+
+\textbf{3. Convertir les entiers suivants du binaire en hexadécimal : 11111011 et 10011101} \\
+
+1111 1011 = FB \\
+
+1001 1101 = 9D \\
+
+\textbf{4. Prouvez qu’un nombre entier est divisible par 3 si et seulement si la somme de ses digits en décimal est divisible par 3} \\
+
+
+\textbf{5. Trouvez l’inverse de 5 modulo 11 ainsi que l’inverse de 3 modulo 7} \\
+
+5 modulo 11 = 2 et 11-2 = 9 \\
+
+3 modulo 7 = 2 et 7-2 = 5 \\
+
+\newpage
+\textbf{6. Prouvez que 2 240 mod 11 = 1} \\
+
+2$^{240}$ = 2$^{2*2*2*2*15}$ \\
+
+$(((((b^{2})^{2})^{2})^{2}) mod 11)^{15}$ \\
+
+$b^{15} mod 11$ \\
+
+Prenons b=9 \\
+
+$9^{15} mod 11$ \\
+
+(9 * ($9^{15}$)) mod 11 \\
+
+(9 * (($9^{2}$)$^{14}$)) mod 11 \\
+
+(9 * (($9^{2}$ mod 11)$^{7}$) mod 11) mod 11 \\
+
+$9^{2}$ mod 11 = 4 \\
+
+(9 * (4* (4$^{6}$ mod 11) mod11) mod 11 \\
+
+(9 * (4* ((4$^{2}$ mod 11)$^{3}$ mod 11) mod11) mod 11 \\
+
+4$^{2}$ mod 11 = 5 \\
+
+(9 * (4* (5$^{3}$ mod 11) mod 11) mod 11 \\
+
+(9 * (4* (5$^{3}$ mod 11) mod 11) mod 11 \\
+
+5$^{3}$ mod 11 = 4 \\
+
+(9 * (4*4 mod 11) mod 11 \\
+
+(9 * (16 mod 11) mod 11 \\
+
+(9 * 5) mod 11 \\
+
+(45) mod 11 = 1 \\
