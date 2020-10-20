@@ -348,6 +348,8 @@ INPUT Chapitre2/NombreComplexExos.tex
 INPUT Chapitre2/NombreComplexExos.tex
 INPUT Chapitre3/LogiqueExos.tex
 INPUT Chapitre3/LogiqueExos.tex
+INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-33.def
+INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-33.def
 INPUT Chapitre4/EnsemblesExos.tex
 INPUT Chapitre4/EnsemblesExos.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm

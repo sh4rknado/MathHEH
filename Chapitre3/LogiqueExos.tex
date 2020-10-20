@@ -250,3 +250,86 @@ $∀x$ appartenant à A $>$ 0 \\
 \end{tabular}
 
 \vspace{4mm}
+
+2) Soient x i ∈ A, P(x$_{i}$ , x$_{j}$) (toutes valeurs possibles), vérifiez les tautologies suivantes : \\
+
+a) ∀x$_{1}$ ∃x$_{2}$ P(x$_{1}$, x$_{2}$) $<=>$ ∃x$_{2}$ ∀x$_{1}$ P(x$_{1}$, x$_{2}$) \textbf{Faux} \\
+
+b) ∃x$_{1}$ , ∀x$_{2}$ P(x$_{1}$, x$_{2}$) $=>$ ∀x$_{2}$ ∃x$_{1}$ P(x$_{1}$, x$_{2}$) \textbf{Vrai} \\
+
+c) ∀x, P(x) $=>$ ∃x, P(x) \textbf{Vrai} \\
+
+\newpage
+
+Lorsque les prédicats sont dans N, Z, Q et R, vérifiez : \\
+
+a) ∀x, ∃y, (y $<$ x) \\
+
+N = -1 < 0 et -1 $\notin$ N : \textbf{Faux} \\
+Z = -1 < 0 et -1 $\in$ Z : \textbf{Vrai} \\
+Q = 1/2 < 1 et 1/2 $\in$ Q : \textbf{Vrai} \\
+R = 0.60 < 1 et 0.60 $\in$ R : \textbf{Vrai} \\
+
+b) ∀x$_{1}$, ∀x$_{2}$ (($x_{1}$ $<$ x $x_{2}$ ) $=>$ ∃y ($x_{1}$ $<$ y $<$ $x_{2}$ )) \\
+
+N = 0 < 1 $=>$ 0 $<$ y $<$ 1 : \textbf{Faux} \\
+Z = 0 < 1 $=>$ 0 $<$ y $<$ 1 : \textbf{Faux} \\
+Q = 0.11 < 0.12 $=>$ 0.11 $<$ 0.115 $<$ 0.12 : \textbf{Vrai} \\
+R \textbf{Vrai} \\
+
+c)∃x, ($x_{2}$ = 2) \\
+
+x=$\sqrt{2}$ $-\sqrt{2}$
+
+N = $\sqrt{2}$ $\notin$ N : \textbf{Faux} \\
+Z = $\sqrt{2}$ $\notin$ Z : \textbf{Faux} \\
+Q = $\sqrt{2}$ $\notin$ Q : \textbf{Faux} \\
+R = $\sqrt{2}$ $\in$ R: \textbf{Vrai} \\
+
+d)∃x, ($x^{2}$ + 1 = 0) \\
+
+∃x $=>$ $x^{2}$ = -1) \\
+
+N = $x^{2}$ = -1 $\notin$ N : \textbf{Faux} \\
+Z = $x^{2}$ = -1 $\notin$ Z : \textbf{Faux} \\
+Q = $x^{2}$ = -1 $\notin$ Q : \textbf{Faux} \\
+R = $x^{2}$ = -1 $\notin$ R: \textbf{Faux} \\
+
+Soient P(x) = x est un multiple de 2 et Q(x) = x est un multiple de 4, les deux prédicats de domaine N \\
+
+P(x) = x est un multiple de 2 \\
+Q(x) = x est un multiple de 4 \\
+
+a) ∀x,(P(x) ⇒ Q(x)) \\
+
+Tout x multiple de 2 est un multiple de 4, si x=2, x est multiple de 2 mais pas de 4 : \textbf{Faux} \\
+
+b) ∀x,(Q(x) ⇒ P(x)) \\
+
+Tout x multiple de 4 est un multiple de 2 : \textbf{Vrai} \\
+
+\newpage
+c) ∃x,(P(x) ⇒ Q(x)) \\
+
+Il existe au moins 1x qui est multiple de 2 et de 4 Vrai car si x=4, x est multiple de 2 et de 4 \\
+
+d) ¬(∀x (P(x) ⇒ ¬Q(x))) \\
+
+Il faut montrer que ∀x (P(x) $=>$ ¬Q(x)) est faux : \\
+
+il faut ∃x, (P(x) ⇒ ¬¬Q(x)) = ∃x (P(x) $<=>$ Q(x )) \\
+
+∃x (P(x) $<=>$ Q(x)) : Il existe au moins 1x qui est multiple de 2 et de 4 Vrai car si x=4, x est multiple de 2 et de 4 \\
+
+\vspace{6mm}
+
+Soit R le domaine des prédicats. Trouvez des formules de la logique des prédicats ne faisant pas apparaître de quantificateurs (∀,∃) équivalentes aux formules suivantes : \\
+
+a) ∃x, ax + b = 0 \\
+
+ax = - b \\
+x = $\frac{-b}{a}$ \\
+
+b) (a $\neq$ 0) ∧ (∃x, ax$^{2}$ + bx + c = 0) \\
+
+(a $\neq$ 0) V (b$^{2}$ -4ac ≥ 0) où a, b et c sont dans R
