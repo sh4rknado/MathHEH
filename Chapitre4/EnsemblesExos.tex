@@ -4,115 +4,60 @@
 \vspace{5mm} %5mm vertical space
 
 \subsection{Enoncé d'exercices}
-\vspace{3mm} %5mm vertical space
+
+Soient A = \{1, 2\}, B = \{3, 4, 5\} et C = \{7\}, calculez : \\
 
 \begin{itemize}
-\item {a. Soit A=\{pi,2,e\} et B=\{-1, 5\} Calculer ${|A\times B|}$}
-\item {b. Soit P $|$ A U B $|$ A =\{3,4,5\} B=\{1,2,3\}}
-\item {c. Soit A=\{$\pi$, 2, e\} et B=\{-1,5\} Calculer $|A U B|$}
+\item {a. A × B}
+\item {b. $2^{A×C}$}
+\item {c. $2^{A}$ × C}
+\item {d. Soit A=\{pi,2,e\} et B=\{-1, 5\} Calculer ${|A\times B|}$}
+\item {e. Soit P $|$ A U B $|$ A =\{3,4,5\} B=\{1,2,3\}}
 \end{itemize}
 
 \subsection{Résolution}
 \vspace{4mm} %5mm vertical space
 
-A) Calculer ${A\times B}$ \\
+a) Calculer ${A\times B}$ \\
 
-A*B = \{ (pi,-1),(pi,5), (2,-1),(2,5), (e,-1),(e,5) \} \\
+$A \times B$ = \{(1, 3); (1, 4); (1, 5); (2, 3); (2, 4); (2, 5)\} \\
+\vspace{5mm} %5mm vertical space
 
-\vspace{3mm} %5mm vertical space
+b) Calculer $2^{A×C}$ \\
 
-$|P(A*B)|$ = 6 \\
+$A \times C$ = \{(1, 7), (2, 7)\}
+\vspace{5mm} %5mm vertical space
+
+$2^{A×C}$ = \{$\emptyset$, \{(1, 7)\}, \{(2, 7)\}, \{(1, 7), (2, 7)\}\} \\
+\vspace{5mm} %5mm vertical space
+
+c) Calculer $2^{A}×C$ \\
+
+$2^{A}$ =  \{$\emptyset$, \{1\}, \{2\}, \{1, 2\}\} \\
+
+$2^{A}×C$ = \{($\emptyset$, 7), (\{1\}, 7), (\{2\}, 7), (\{1, 2\}, 7)\} \\
 
 \vspace{5mm} %5mm vertical space
 
+d) Calculer $2^{A}×C$ \\
+
+Card(AxB) = Card(A) x Card(B) \\
+
+Card(A) = 3 $ $ Card(B) = 2 \\
+
+Card(AxB) = 2x3 = 6 \\
+
 \newpage
 
-B) Soit P $|$ A U B $|$ A =\{3,4,5\} B=\{1,2,3\} \\
-
+e) Soit P $|$ A U B $|$ A =\{3,4,5\} B=\{1,2,3\}
 \vspace{3mm} %5mm vertical space
 
-1) Union des 2 ensembles a 1 membre \\
+$2^{k}$ où k est le nombre d'élement des ensembles $|$ \{3,4,5,1,2\} $|$ \\
 
-P(A) = \{\{\}, \{3\}, \{4\}, \{5\}, \{1\}, \{2\}, \{3\}\} \\
+k = $|$ \{3,4,5,1,2\} $|$ = 5 \\
 
-Total des ensembles = 7 \\
-
-2) Union des 2 ensembles a 2 membres \\
-
-P(A) = \{\{3,4\}, \{4,5\}, \{5,1\}, \{1,2\}, \{2,3\}, \{3,3\}\} \\
-
-Total des ensembles = 6 \\
-
-3) Union des 2 ensembles a 3 membres \\
-
-P(A) = \{\{3,4,5\}, \{4,5,1\}, \{5,1,2\}, \{1,2,3\}, \{2,3,3\}, \{3,3,4\}\} \\
-
-Total des ensembles =  6 \\
-
-3) Union des 2 ensembles a 4 membres \\
-
-P(A) = \{\{3,4,5,1\}, \{4,5,1,2\}, \{5,1,2,3\}, \{1,2,3,3\}, \{2,3,3,4\}, \{3,3,4,5\}\} \\
-
-Total des ensembles = 6 \\
-
-4) Union des 2 ensembles a 5 membres \\
-
-P(A) = \{\{3,4,5,1,2\}, \{4,5,1,2,3\}, \{5,1,2,3,3\}, \{1,2,3,3,4\}, \{2,3,3,4,5\}, \{3,3,4,5,1\}\} \\
-
-Total des ensembles = 6 \\
-
-6) Union des 2 ensembles a 6 membres \\
-
-P(A) = \{\{3,4,5,1,2,3\}\} \\
-
-Total des ensembles = 1 \\
-
-7) Calculer la cardinalité de P(A):\\
-
-La sommes de la cardinalité des sous ensembles = 7 + (4*6) +1 = 32\\
-
-P $|$ A U B $|$ = 32 \\
+P $|$ A U B $|$ = $2^{5}$ = 32 \\
 
 S=32 \\
 
-\newpage
-
-c) Soit A=\{$\pi$, 2, e\} et B=\{-1,5\} Calculer $|A U B|$ \\
-
-1) Union des 2 ensembles a 1 membre \\
-
-P(A) = \{\{\}, \{$\pi$\}, \{2\}, \{e\}, \{-1\}, \{5\}\} \\
-
-Total des ensembles = 6 \\
-
-2) Union des 2 ensembles a 2 membres \\
-
-P(A) = \{\{$\pi$,2\}, \{2,e\}, \{e,-1\}, \{-1,5\}, \{5,$\pi$\}\} \\
-
-Total des ensembles = 5 \\
-
-3) Union des 2 ensembles a 3 membres \\
-
-P(A) = \{\{$\pi$,2,e\}, \{2,e,-1\}, \{e,-1,5\}, \{-1,5,$\pi$\}, \{5,$\pi$,2\}\} \\
-
-Total des ensembles = 5 \\
-
-3) Union des 2 ensembles a 4 membres \\
-
-P(A) = \{\{$\pi$,2,e,-1\}, \{2,e,-1,5\}, \{e,-1,5,$\pi$\}, \{-1,5,$\pi$,2\}, \{5,$\pi$,2,e\}\} \\
-
-Total des ensembles = 5 \\
-
-4) Union des 2 ensembles a 5 membres \\
-
-P(A) = \{\{$\pi$,2,e,-1,5\}\} \\
-
-Total des ensembles = 1 \\
-
-7) Calculer la cardinalité de P(A):\\
-
-La sommes de la cardinalité des sous ensembles = 6 + (3*5) +1 = 22\\
-
-P $|$ A U B $|$ = 22 \\
-
-S=22 \\
+\vspace{3mm} %5mm vertical space

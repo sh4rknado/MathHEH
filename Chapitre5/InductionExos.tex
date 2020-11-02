@@ -1,13 +1,105 @@
 \newpage
 
-\section{Théorie naïve des ensembles Exercices}
+\chapter{Preuve par induction Exercices}
 \vspace{5mm} %5mm vertical space
 
-\subsection{Produit Cartésiens}
-\vspace{3mm} %5mm vertical space
+\section{Prouver par induction}
 
-\begin{itemize}
-\item {a. Reflexivité : pour tout ensemble A (A$\in$B)}
-\item {b. Anti-Symétrique : (A$\in$B) et (B$\in$A) $=>$ A=B}
-\item {c. Transitivité : (A$\in$B) et (B$\in$C) $=>$ (A$\in$C)}
-\end{itemize}
+\[
+  \sum_{k=0}^{n} (2k + 1)= (n+1)^{2}, dans N
+\]
+
+\textbf{Cas de base : n = 0} \\
+
+1er parties : \\
+
+(2k + 1) où k = 0 \\
+(2*0 + 1) = 1 \\
+
+2e parties : \\
+
+$(n+1)^{2}$ où n = 0 \\
+$(0+1)^{2}$ = 1 \\
+
+\textbf{Conclusion : la première partie $((2*0 + 1) = 1)$ == la deuxième parties $((0+1)^{2} = 1)$} \\
+
+\textbf{Cas général : on suppose que pour n c'est vérifié, on va essayer pour n+1 } \\
+
+1e parties : \\
+
+\[
+  \sum_{k=0}^{n+1} (2k + 1) =
+  \sum_{k=0}^{n} (2k + 1) + (2k+1)
+\]
+
+\[
+  \sum_{k=0}^{n+1} (2k + 1) = (n+1)^{2} + (2(n+1)+1)
+\]
+
+\[
+  \sum_{k=0}^{n+1} (2k + 1) = n^{2} + 2*n*1 +1^{2} + 2n + 2 + 1
+\]
+
+\[
+  \sum_{k=0}^{n+1} (2k + 1) = n^{2} + 4n + 4
+\]
+
+2e parties : \\
+
+$((n+1)+1)^{2}$ \\
+$(n+2)^{2}$ \\
+$(n+2)^{2}$ \\
+$n^{2}+4n+4$ \\
+
+
+\textbf{Conclusion : la première partie $(n^{2}+4n+4)$ == la deuxième parties $(n^{2}+4n+4)$} \\
+
+\newpage
+
+\textbf{2) Prouvez par induction} \\
+
+\[
+  \sum_{k=0}^{n} 2^{k} = 2^{n+1}-1, dans N
+\]
+
+\textbf{Cas de base : n = 0} \\
+
+1er parties : \\
+
+$2^{n+1}-1$ \\
+$2^{1}-1$ = 1 \\
+
+2e parties : \\
+
+$2^{0}$ = 1 \\
+
+\textbf{Conclusion : la première partie ($2^{0}$=1) == la deuxième parties ($2^{1}-1$ = 1)} \\
+
+\vspace{6mm}
+
+\textbf{Cas général : on suppose que pour n c'est vérifié, on va essayer pour n+1 } \\
+
+1e parties : \\
+
+\[
+  \sum_{k=0}^{n+1} 2^{k} =
+  \sum_{k=0}^{n} 2^{k} + 2^{n+1}
+\]
+
+\[
+  \sum_{k=0}^{n+1} 2^{k} = 2^{n+1}-1 + 2^{n+1}
+\]
+
+\[
+  \sum_{k=0}^{n+1} 2^{k} = 2^{n+2}-1
+\]
+
+
+2e parties : \\
+
+$2^{n+1+1}-1$ \\
+$2^{n+2}-1$ \\
+
+\textbf{Conclusion : la première partie $(2^{n+2}-1)$ == la deuxième parties $(2^{n+2}-1)$} \\
+
+\newpage

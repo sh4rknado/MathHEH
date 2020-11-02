@@ -353,6 +353,8 @@ INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-33.def
 INPUT Chapitre4/EnsemblesExos.tex
 INPUT Chapitre4/EnsemblesExos.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT Chapitre5/InductionExos.tex
+INPUT Chapitre5/InductionExos.tex
 INPUT Chapitre6/NombreEntierExos.tex
 INPUT Chapitre6/NombreEntierExos.tex
 INPUT Chapitre8/RelationBinaireExos.tex
